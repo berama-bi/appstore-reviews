@@ -3,6 +3,30 @@
     "AppName": "sunrise tv",
     "Provider": "sunrise",
     "AppID": "1292688012",
+    "ReviewID": "14762931475",
+    "UserName": "Vamosalaplaja",
+    "Score": "3",
+    "Date": "2026-11-07T12:02:15-07:00",
+    "Title": "TV Empfang",
+    "Content": "Unterbricht ständig manchmal auch während lange zeit",
+    "AppVersion": "5.30.15210"
+  },
+  {
+    "AppName": "my yallo",
+    "Provider": "yallo",
+    "AppID": "1365009736",
+    "ReviewID": "14762316022",
+    "UserName": "Cabutoo",
+    "Score": "1",
+    "Date": "2026-11-07T08:51:07-07:00",
+    "Title": "Nie mehr wieder",
+    "Content": "Absolut nicht zu empfehlen, Supporthotline verkauft lieber Abos als Probleme zu lösen.",
+    "AppVersion": "5.5.0"
+  },
+  {
+    "AppName": "sunrise tv",
+    "Provider": "sunrise",
+    "AppID": "1292688012",
     "ReviewID": "14754929503",
     "UserName": "Kon. Kreu..",
     "Score": "1",
@@ -34990,18 +35014,6 @@
     "Title": "Toujours au TOP",
     "Content": "client Swisscom depuis plus de 25ans, toujours fidèle, jamais d infidélité car service au TOP sans parler de la qualité",
     "AppVersion": "11.1.2"
-  },
-  {
-    "AppName": "sunrise tv",
-    "Provider": "sunrise",
-    "AppID": "1292688012",
-    "ReviewID": "8755134921",
-    "UserName": "AndiiiP",
-    "Score": "1",
-    "Date": "2022-06-08T17:49:03-07:00",
-    "Title": "Funktioniert nicht",
-    "Content": "Keinerlei Live TV möglich. Einfach nur frustrierend wenn man dafür bezahlt.",
-    "AppVersion": "4.41.4609"
   },
   {
     "AppName": "yallo tv",
