@@ -1,5 +1,29 @@
 [
   {
+    "AppName": "mysunrise",
+    "Provider": "sunrise",
+    "AppID": "466738063",
+    "ReviewID": "14780286549",
+    "UserName": "Larsii21",
+    "Score": "1",
+    "Date": "2026-11-11T22:00:51-07:00",
+    "Title": "einfach ne",
+    "Content": ".",
+    "AppVersion": "7.6.61"
+  },
+  {
+    "AppName": "blue tv",
+    "Provider": "swisscom",
+    "AppID": "798597407",
+    "ReviewID": "14779056733",
+    "UserName": "mrgadget71",
+    "Score": "2",
+    "Date": "2026-11-11T13:50:54-07:00",
+    "Title": "Nicht für iPhone Duo optimiert",
+    "Content": "Leider weder auf dem Aussendisplay noch auf dem Innendisplay  vernünftig nutzbar.",
+    "AppVersion": "8.11.0"
+  },
+  {
     "AppName": "blue tv",
     "Provider": "swisscom",
     "AppID": "798597407",
@@ -34,18 +58,6 @@
     "Title": "Probablement, la raison de ma résiliation…",
     "Content": "Comment peut-on faire une… app (?) pareille… ? ou, alors, chez Salt, on ne veut pas que vous regardiez la télévision… Pas d’avance rapide, des heures et des heures de pubs, une interface archaïque et minimaliste… ou, alors, tu payes! Alors, je pense que je vais faire ce que je n’ai pas fait depuis trop longtemps… résilier mon abonnement. Regarder la télévision comme avant la télévision digitale… très peu pour moi.",
     "AppVersion": "3.2643.0"
-  },
-  {
-    "AppName": "mysunrise",
-    "Provider": "sunrise",
-    "AppID": "466738063",
-    "ReviewID": "14770327656",
-    "UserName": "ahmed0797323506",
-    "Score": "5",
-    "Date": "2026-11-09T09:04:19-07:00",
-    "Title": "‏merci",
-    "Content": "bravo",
-    "AppVersion": "7.6.61"
   },
   {
     "AppName": "myswisscom",
@@ -3466,18 +3478,6 @@
     "Title": "Football",
     "Content": "Top pour la Super League",
     "AppVersion": "8.8.0"
-  },
-  {
-    "AppName": "sunrise tv",
-    "Provider": "sunrise",
-    "AppID": "1292688012",
-    "ReviewID": "14105398590",
-    "UserName": "Der Bildbeamte",
-    "Score": "2",
-    "Date": "2026-05-25T11:47:17-07:00",
-    "Title": "Werbung?",
-    "Content": "Erzwungene Werbung beim replay? Ich bezahl für de App!\nUnd die Antwort darauf ist 2 Jahre alt!",
-    "AppVersion": "5.26.14007"
   },
   {
     "AppName": "myswisscom",
@@ -31920,18 +31920,6 @@
     "AppVersion": "1.48.3"
   },
   {
-    "AppName": "blue tv",
-    "Provider": "swisscom",
-    "AppID": "798597407",
-    "ReviewID": "9567978067",
-    "UserName": "Zianist",
-    "Score": "1",
-    "Date": "2023-01-31T08:11:17-07:00",
-    "Title": "Läuft nich mehr",
-    "Content": "auf dem 6 plus. Auch nicht wenn man die sogenannte \"letzte kompatible Version\" runterlädt. Ergo: Schrott !",
-    "AppVersion": "6.3.4"
-  },
-  {
     "AppName": "sunrise tv",
     "Provider": "sunrise",
     "AppID": "1292688012",
@@ -35026,6 +35014,18 @@
     "Title": "Toujours au TOP",
     "Content": "client Swisscom depuis plus de 25ans, toujours fidèle, jamais d infidélité car service au TOP sans parler de la qualité",
     "AppVersion": "11.1.2"
+  },
+  {
+    "AppName": "sunrise tv",
+    "Provider": "sunrise",
+    "AppID": "1292688012",
+    "ReviewID": "8755134921",
+    "UserName": "AndiiiP",
+    "Score": "1",
+    "Date": "2022-06-08T17:49:03-07:00",
+    "Title": "Funktioniert nicht",
+    "Content": "Keinerlei Live TV möglich. Einfach nur frustrierend wenn man dafür bezahlt.",
+    "AppVersion": "4.41.4609"
   },
   {
     "AppName": "yallo tv",
@@ -39144,6 +39144,102 @@
     "AppVersion": "2.10.8"
   },
   {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "5566049800",
+    "UserName": "HaKaSo",
+    "Score": "1",
+    "Date": "2020-02-22T07:32:18-07:00",
+    "Title": "MySports",
+    "Content": "Ich habe die App nur für mein MySports Abo.\n\nAbsolut unzumutbar.\n\nStändig Fehlermeldungen, Sender kann ausserhalb von zu Hause nicht gebraucht werden (egal ob ich zu Hause bin oder nicht), Pausenbildet obwohl Live Spiele laufen. Einfach nur schlecht.",
+    "AppVersion": "2.10.8"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "5557700366",
+    "UserName": "rtzuingd",
+    "Score": "1",
+    "Date": "2020-02-20T11:20:27-07:00",
+    "Title": "schlechte Übersicht",
+    "Content": "schade, die alte App war ziemlich übersichtlich. Die Neue hat ein furchtbar schlechtes Design. \nFilter und Suchfunktionen sind ungenügend.",
+    "AppVersion": "2.10.8"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "5509472325",
+    "UserName": "Quickliner",
+    "Score": "1",
+    "Date": "2020-02-09T11:09:56-07:00",
+    "Title": "Verschlechterung",
+    "Content": "Fehlermeldungen über Fehlermeldungen. Kaum brauchbar, alte App war viel besser. Und Quickline kümmert es scheinbar nicht denn Antworten gibt es keine... Schade!",
+    "AppVersion": "2.10.8"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "5496241660",
+    "UserName": "Hhjfhvcjb",
+    "Score": "1",
+    "Date": "2020-02-06T10:39:46-07:00",
+    "Title": "Katastrophe",
+    "Content": "Schlecht schlecht schlecht wir künden!",
+    "AppVersion": "2.10.8"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "5488144261",
+    "UserName": "Aerni",
+    "Score": "1",
+    "Date": "2020-02-04T11:55:33-07:00",
+    "Title": "Schade!",
+    "Content": "Tv Guide total unübersichtlich, alte Version war viel besser!",
+    "AppVersion": "2.10.8"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "5483379264",
+    "UserName": "Fukurokuju",
+    "Score": "1",
+    "Date": "2020-02-03T07:30:08-07:00",
+    "Title": "Absolute Katastrophe! Nicht brauchbar!",
+    "Content": "Obwohl ich ansonsten von den Produkten und Services von Quickline überzeugt und begeistert bin, ist diese Mobile-TV App eine Katastrophe: Performance allgemein sehr schlecht, die persönlichen Senderlisten können zwar erstellt werden, funktionieren jedoch nicht in der App (auf der UHD-Box schon) bzw. es werden andere Sender abgespielt als angewählt.\nIch habe vor >1 Woche den Support angeschrieben (Ticketbestätigung erhalten) und seither noch keine Antwort bekommen - unter Kundenservice verstehe ich etwas anderes.\nAlso, geschätzte Quickline, unbedingt und dringend nachbessern, dieses Produkt entspricht nicht euren Standards. Jede TV-App der Konkurrenz, die ich kenne, ist besser! Und solange eurer Produkt unbrauchbar ist, werde ich auf die Konkurrenzprodukte ausweichen!",
+    "AppVersion": "2.10.8"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "5470935898",
+    "UserName": "Dhhid",
+    "Score": "2",
+    "Date": "2020-01-31T09:02:05-07:00",
+    "Title": "Quickline MobilTV lief besser",
+    "Content": "sehr viele Abstürze. Bleibt immer hängen. Unbrauchbar. Beim TV Guide kommen andere Sender als angewählt",
+    "AppVersion": "2.10.8"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "5470890237",
+    "UserName": "Frusti-hoch2",
+    "Score": "1",
+    "Date": "2020-01-31T08:47:20-07:00",
+    "Title": "Wieso habt ihr eigentlich verändert???????",
+    "Content": "Mit der neuen App habe ich nur Probleme.\nDie alte App mit den farbigen Sender-Logos war ideal.\nIch will sie wieder zurück!\nSendungen suchen, Senderlisten erstellen und auch richtig nutzen, die monochrome Darstellung mit den unmöglichen Zeitfenstern, einfach alles nur schlecht.\nDavor konnte ich die App auch auf dem IMAC nutzen, geht jetzt nicht mehr. Verstehe nicht wieso man derart verschlimmbessern kann. Finde niemand der die neue App gut findet und das ist ein vernichtendes Urteil.",
+    "AppVersion": "2.10.8"
+  },
+  {
     "AppName": "salt tv",
     "Provider": "salt",
     "AppID": "1258680285",
@@ -39154,6 +39250,42 @@
     "Title": "Male Male Malissimo",
     "Content": "A causa di questa orrenda applicazione ho deciso di lasciare Salt come provider di internet e tv nonostante l’ottima offerta economica che propone. È talmente piena di bug e programmata male che ti fa perdere il piacere di guardare la tv, regalandoti in compenso, un nervosismo e odio a palate. Chiunque l’abbia creata dovrebbe cambiare mestiere!!!!",
     "AppVersion": "3.1937.0"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "5437692832",
+    "UserName": "Patrik-74",
+    "Score": "5",
+    "Date": "2020-01-22T23:11:11-07:00",
+    "Title": "Funktioniert",
+    "Content": "Supper App!",
+    "AppVersion": "2.10.8"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "5403936234",
+    "UserName": "danistojkov",
+    "Score": "1",
+    "Date": "2020-01-14T13:37:32-07:00",
+    "Title": "2020",
+    "Content": "Diese App ist in so vielen Aspekte schlechter als das Vorgängige,  dass ich mich schon recht verwundert habe wer für die Qualitätskontrolle und im Entwicklungsteam bei der Quickline arbeitet. Die App ist Übersichtstechnisch äusserst ungeschickt gestaltet und macht Rückschritte welche mit der vorherigen Version kein Thema waren.\n\n-Die Vollbildfunktion wurde offenbar vergessen\n-Crop/Zoomfunktion ist ja heutzutage auch überbewertet\n-Beim verbinden mit HDMI an den TV sieht man tolles 4:3 TV (soll ja Retro sein)\n-Auflösung bei Schaltflächen, Elementen und Tv Programm ist bedürfnisabdeckend, jedoch bei weitem kein \"Erlebnis\"\n-My Page ist so gut wie unbrauchbar... I miss really the old App..\n...\n\nKönnte noch weitermachen jedoch will ich meine Zeit nicht verschwänden denn Quickline kümmerts ja wohl nicht.. ich meine sie haben eine 1 Stern Bewertung und haben auf keinen einzigen komentar geantwortet...\nWusstet Ihr schon das Ihr mit der neuen Swisscom TV Box sprechen könnt & euer Zuhause steuern.. so richtig Zukunfts mässig und voraus denkend.. im 2020 halt schon angekommen.\n\nDanke Quickline!",
+    "AppVersion": "2.10.8"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "5382313545",
+    "UserName": "PatGnt",
+    "Score": "1",
+    "Date": "2020-01-09T13:41:38-07:00",
+    "Title": "Update",
+    "Content": "Die Favoritenliste der Sender geht nicht. Klickt man auf ein Pogramm zeigt es einen anderen TV sender an. Bsp. Ich habe 3+ bei meinen Favoriten auf Platz 13 und in der App zeigt es mir ihn auf Platz 4 an. Wenn ich jedoch drauf klicke, kommt ARD welches bei mir normaler weise auf Platz 4 ist. Nicht zu gebrauchen und die Updates machen alles schlimmer.",
+    "AppVersion": "2.10.8"
   },
   {
     "AppName": "salt tv",
@@ -39168,6 +39300,18 @@
     "AppVersion": "3.1937.0"
   },
   {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "5365001788",
+    "UserName": "janineschaub",
+    "Score": "1",
+    "Date": "2020-01-05T09:30:12-07:00",
+    "Title": "Unbrauchbar",
+    "Content": "Richtig schlechte App. Zeigt die banze Zeit unerwarteter Fehler an und man kann keine Sendung mer anschauen. Nach Filmen suchen kann man auch nicht mehr. Für was gibt es eine neue App die gar nocht funktioniert.",
+    "AppVersion": "2.10.7"
+  },
+  {
     "AppName": "salt tv",
     "Provider": "salt",
     "AppID": "1258680285",
@@ -39178,6 +39322,102 @@
     "Title": "Katastrophe",
     "Content": "Wie kann die App so gut bewerted sein? Ich glaub Salt hat alle Mitarbeiter gezwungen 5 Sterne zu geben. 0 Sterne Option ist hier erforderlich...",
     "AppVersion": "3.1937.0"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "5332337400",
+    "UserName": "RVerygood",
+    "Score": "1",
+    "Date": "2019-12-28T15:48:19-07:00",
+    "Title": "Unterirdisch schlecht",
+    "Content": "Die App stürzt dauernd ab. Fühle mich als Kunde nicht ernst genommen. Verte war um Längen besser! Aber Hauptsache mit Google ins Bett steigen. Das war ein Schuss in den Ofen. Die VoD ist miserabel gelöst!",
+    "AppVersion": "2.10.7"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "5330685085",
+    "UserName": "mahagoni08",
+    "Score": "1",
+    "Date": "2019-12-28T06:33:02-07:00",
+    "Title": "Sehr unübersichtlich",
+    "Content": "Nehmt lieber wieder die Maske von Zattoo oder auch Teleboy oder auch Wilma werde das Abo wieder kündigen weil ich es nicht gebrauchen kann so und auf Apple TV 4K lässt es sich auch nicht installieren und AirPlay ist zu umständlich. Und nicht mal über den Browser läuft das program so was hätte ich von Quickline nicht erwartet",
+    "AppVersion": "2.10.7"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "5326632488",
+    "UserName": "Viilihier",
+    "Score": "1",
+    "Date": "2019-12-27T07:29:51-07:00",
+    "Title": "Einfach schlecht",
+    "Content": "Abstürze, Favoriten stimmen nicht, kein Feedback, einfach schade!",
+    "AppVersion": "2.10.7"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "5270959092",
+    "UserName": "Marc Chalverat",
+    "Score": "1",
+    "Date": "2019-12-14T01:35:55-07:00",
+    "Title": "Unbrauchbar",
+    "Content": "Sorry, aber das könnt ihr mach3n, Senderliste definieren und dann kommt immer irgendetwas. Macht endlich euren Job... da zahle ich lieber mehr und gehe zu Swisscom, und es funktioniert",
+    "AppVersion": "2.10.7"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "5235888749",
+    "UserName": "Schubi2",
+    "Score": "5",
+    "Date": "2019-12-05T03:37:07-07:00",
+    "Title": "Unbrauchbare App",
+    "Content": "Die neue App von Quickline ist absolut unbrauchbar. Ob man sich einen Film auf Replay oder auch Live anschauen will, ständig wird der Film unterbrochen und man bekommt die Meldung ,ein unerwarteter Fehler ist aufgetreten,.",
+    "AppVersion": "2.10.7"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "5229805159",
+    "UserName": "ody666",
+    "Score": "1",
+    "Date": "2019-12-03T12:49:17-07:00",
+    "Title": "Qualität",
+    "Content": "Ganz schlimme App. Extrem kompliziert und langsam. Ich wünsche mir die alte App zurück.",
+    "AppVersion": "2.10.7"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "5229187384",
+    "UserName": "Pbkraft",
+    "Score": "2",
+    "Date": "2019-12-03T08:31:16-07:00",
+    "Title": "Guter Ansatz, schlechte Ausführung",
+    "Content": "Programmierung via App ist ein Glückspiel. Anzeige im Tv-Guide stimmt nicht mit den Details überein, zeigt ein anderes Programm und dann startet da Probieren. Sehr schade.",
+    "AppVersion": "2.10.7"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "5226349148",
+    "UserName": "remytreier",
+    "Score": "1",
+    "Date": "2019-12-02T14:38:58-07:00",
+    "Title": "Schade kann man keine Minus Sterne geben!",
+    "Content": "Absolute Katastrophe! Lichtjahre schlechter als die Vorgänger App! Wie man so etwas entwickeln ( lassen) kann ist schleierhaft.",
+    "AppVersion": "2.10.7"
   },
   {
     "AppName": "salt tv",
@@ -39192,6 +39432,18 @@
     "AppVersion": "3.1937.0"
   },
   {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "5183037451",
+    "UserName": "Der Kälte",
+    "Score": "1",
+    "Date": "2019-11-22T13:11:47-07:00",
+    "Title": "Peinlich Peinlich",
+    "Content": "Fehler können passieren beim Programmieren einer App. Aber seit über einem Monat ist diese App fehlerbehaftet und es wird kein Update geliefert. Das ist dann schon peinlich.....Favoriten Senderliste....usw",
+    "AppVersion": "2.10.7"
+  },
+  {
     "AppName": "salt tv",
     "Provider": "salt",
     "AppID": "1258680285",
@@ -39202,6 +39454,18 @@
     "Title": "impossible d’enlever les contrôles",
     "Content": "les boutons pause live etc ne disparaissent jamais en replay.\nbravo",
     "AppVersion": "3.1937.0"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "5160209045",
+    "UserName": "dechlisimi",
+    "Score": "1",
+    "Date": "2019-11-17T10:44:02-07:00",
+    "Title": "Schlecht",
+    "Content": "Mit perfekter 4G Verbindung 10s nach hinten = 15s ladezeit. Min. 4 Abstürze bis geladen. Diese App ist unbrauchbar schlecht.",
+    "AppVersion": "2.10.7"
   },
   {
     "AppName": "salt tv",
@@ -39228,6 +39492,18 @@
     "AppVersion": "1.0.2"
   },
   {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "5103850716",
+    "UserName": "Nildcity",
+    "Score": "1",
+    "Date": "2019-11-08T03:10:14-07:00",
+    "Title": "Lädt nicht mehr",
+    "Content": "Seit Tagen öffnet die App nicht mehr. Habe sie nochmals neu installiert, jetzt kann ich mich nicht mal mehr einloggen!",
+    "AppVersion": "2.10.7"
+  },
+  {
     "AppName": "my yallo",
     "Provider": "yallo",
     "AppID": "1365009736",
@@ -39238,6 +39514,18 @@
     "Title": "Yallo",
     "Content": "Nicht schlecht die App funktioniert super ich habe keine Probleme",
     "AppVersion": "1.0.2"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "5071677362",
+    "UserName": "schadealtwarbesser",
+    "Score": "1",
+    "Date": "2019-11-02T07:44:46-07:00",
+    "Title": "Katastophen EPG",
+    "Content": "Die mobile-Tv App war super und dieser Nachfolger ist eine Katastrophe bez. Program Guide. Auf der neuen Box kann man das EPG umschalten, aber nicht bei dieser App.",
+    "AppVersion": "2.10.7"
   },
   {
     "AppName": "salt tv",
@@ -39252,6 +39540,90 @@
     "AppVersion": "3.1937.0"
   },
   {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "5015922177",
+    "UserName": "megapower",
+    "Score": "3",
+    "Date": "2019-10-25T16:46:44-07:00",
+    "Title": "Appel TV",
+    "Content": "Schade kann man die App nicht auf Appel TV-Gerät herunterladen! Das will wohl der Hersteller gekonnt verhindern ! Schade, sonst ein super Service!",
+    "AppVersion": "2.10.7"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "5007465199",
+    "UserName": "vesa1507",
+    "Score": "1",
+    "Date": "2019-10-24T08:50:09-07:00",
+    "Title": "Katastrophe",
+    "Content": "Seit dem Update funktioniert gar nichts mehr!",
+    "AppVersion": "2.10.7"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "4946024241",
+    "UserName": "ibeat",
+    "Score": "1",
+    "Date": "2019-10-14T05:38:24-07:00",
+    "Title": "Update fehlerhaft",
+    "Content": "Senderlisten funktionieren nicht mehr.\nUnfähige Leute!!!!!!",
+    "AppVersion": "2.10.7"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "4933290146",
+    "UserName": "m.arek",
+    "Score": "1",
+    "Date": "2019-10-12T12:12:28-07:00",
+    "Title": "Sendereinstellung der Favoriten falsch angezeigt",
+    "Content": "1. Also nach den neuesten Update wird unter Favoriten die allgemeine Senderliste angezeigt, wenn der Sender angewählt wird, wird doch der Sender aus der Favoriten gespielt, so ein Durcheinander, man man man. In der letzten Version hat es noch einigermassen funktioniert.\n2. Oft bleibt jetzt die Anwendung nach dem Update „hängen“ nach den Minimieren und wird nicht mehr wiederhergestellt.",
+    "AppVersion": "2.10.7"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "4925331433",
+    "UserName": "stony68",
+    "Score": "1",
+    "Date": "2019-10-11T14:18:40-07:00",
+    "Title": "Der Zeit weit voraus ...",
+    "Content": "Endlich ein Update, das die Kompatibilität mit iOS 12.4 bringt! ... Nur blöd, dass seit zwei Wochen iOS 13 draussen ist. 🤦🏻‍♀️",
+    "AppVersion": "2.10.7"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "4919647920",
+    "UserName": "Gernhöhrer",
+    "Score": "1",
+    "Date": "2019-10-10T12:13:52-07:00",
+    "Title": "IOS 12,4?",
+    "Content": "In welchem Jahr lebt ihr? Das neuste IOS im Jahr 2019 trägt die Vers.Nr. 13,1.",
+    "AppVersion": "2.10.7"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "4918900404",
+    "UserName": "Seppel2008",
+    "Score": "3",
+    "Date": "2019-10-10T08:38:24-07:00",
+    "Title": "iOS 12.4??",
+    "Content": "Liebe Leute. Ein Update zu bringen wenn bereits iOS 13.x lanciert ist und dann zu schreiben „kompatibel mit der neusten iOS Version 12.4“....",
+    "AppVersion": "2.10.7"
+  },
+  {
     "AppName": "my yallo",
     "Provider": "yallo",
     "AppID": "1365009736",
@@ -39264,6 +39636,30 @@
     "AppVersion": "1.0.2"
   },
   {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "4894165287",
+    "UserName": "stoneys",
+    "Score": "1",
+    "Date": "2019-10-05T14:39:04-07:00",
+    "Title": "Unbrauchbar",
+    "Content": "Diese App ist absolut unbrauchbar!\nStändig stürzt die App ab, Menüführung ist eine Katastrophe, Merkliste funktioniert nicht und und und .. Liebe Quickline: mit diesen „Verbesserungen“ im Vergleich zur alten App werdet ihr mehr und mehr Kunden an die Konkurrenz verlieren. \nZurück auf Feld 1 und die UX nochmals gründlich überarbeiten!",
+    "AppVersion": "2.10.2"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "4873127744",
+    "UserName": "Qwetzdnsiwosbsjsj",
+    "Score": "1",
+    "Date": "2019-10-02T04:51:55-07:00",
+    "Title": "Unbrauchbar",
+    "Content": "Total unbrauchbares App! Fehlermeldung über Fehlermeldung; man kann im TV Guide nicht einfach zurückfahren sondern muss nach Datum und Zeit suchen. Unglaublich dass man eine so schlechte App den Kunden zur Verfügung stellt!!",
+    "AppVersion": "2.10.2"
+  },
+  {
     "AppName": "salt tv",
     "Provider": "salt",
     "AppID": "1258680285",
@@ -39274,6 +39670,66 @@
     "Title": "Blackscreen",
     "Content": "Ich hatte bereis aus dem vorherige Smartphone-Betriebssystem und danach ebenfalls beim TV schauen nach ca. 30 Sekunden einen Vlackscreen. Meiner Meinung nach ist dies ein Bug in der SaltTV-Applikation, den auf den anderen Geräten besteht das gleiche Problen. Dies geschieht über jeden beliebiegen Sender. Somit nur einen Stern.",
     "AppVersion": "3.1920.0"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "4808475438",
+    "UserName": "tom-glauser",
+    "Score": "4",
+    "Date": "2019-09-20T02:01:56-07:00",
+    "Title": "Nicht zu brauchen",
+    "Content": "Es hat mehr Fehler als ich hier aufschreiben kann! Völlig unbrauchbar das app",
+    "AppVersion": "2.10.2"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "4790022161",
+    "UserName": "Jane_Sigi",
+    "Score": "1",
+    "Date": "2019-09-16T01:09:28-07:00",
+    "Title": "Was soll das?",
+    "Content": "Sorry, aber diese App ist unbrauchbar!\nIch schaffe es nicht, TV zu schauen darüber! Jedes Mal, wenn ich einen Film (oder egal was!) anklicke, kommt eine Fehlermeldung mit dem Vermerk, dass ich es später nochmal versuchen soll... Nur nervig.",
+    "AppVersion": "2.10.2"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "4711029689",
+    "UserName": "_Dani.P",
+    "Score": "1",
+    "Date": "2019-09-01T13:47:57-07:00",
+    "Title": "Rolle Rückwärts",
+    "Content": "Die neue App ist unübersichtlicher, als die alte Version. Keine klare Wochenübersicht vorhanden, es ist nur mühsames herumsuchen. \nSuchfunktion ist ein wirres Durcheinander. Die gefunden Sendungen (Replay) weisen kein Datum auf.",
+    "AppVersion": "2.10.2"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "4710706985",
+    "UserName": "rafi02",
+    "Score": "1",
+    "Date": "2019-09-01T12:27:51-07:00",
+    "Title": "Unbrauchbar",
+    "Content": "Musste von der alten App auf die neue wechseln. Die neue App ist unbrauchbar bar, läuft instabil! Wenn ich unterwegs bin schaue ich nur noch Zattoo! Wenn möglich die alte App laden.",
+    "AppVersion": "2.10.2"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "4646754584",
+    "UserName": "daOideSöba",
+    "Score": "1",
+    "Date": "2019-08-20T12:21:21-07:00",
+    "Title": "Unbrauchbar",
+    "Content": "Oft ist es tagelang unmöglich über die App fern zu sehen.\nDann geht live TV, aber Aufnahmen oder zeitversetztes anschauen von Filmen geht nicht.\nAm iPad funktionierte die ALTE Version stabil, das Fernsehprogramm war deutlich übersichtlicher, die App konnte als kleines Fenster im Hintergrund laufen, man konnte im Fernsehprogramm blättern und dabei eine Sendung schauen... alles Dinge, all das ist dahin.\n\nWer seine Fernseh-App mit dem Fernseh-Abo brauchen möchte, sollte zur Zeit nicht zu Quickline gehen.",
+    "AppVersion": "2.10.2"
   },
   {
     "AppName": "my yallo",
@@ -39360,6 +39816,18 @@
     "AppVersion": "1.0"
   },
   {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "4246479479",
+    "UserName": "neuhuesli",
+    "Score": "1",
+    "Date": "2019-06-01T08:21:50-07:00",
+    "Title": "Rückschritt!",
+    "Content": "Infolge Abo Wechsel auf schnelleres Internet und zusätzlich Mobile Abo wird man bei Quickline genötigt auf die neue App zu wechseln! Die alte App war nahezu perfekt, die neue ist eine Katastrophe! Keine Wochenübersicht, keine horizontale Zeitauswahl, mann muss immer mühsam die Zeit auswählen! Zudem nur noch 30h Replay anstelle 7 Tage wie bei der alten App! Absolut unübersichtlich und nicht zu gebrauchen! Ich bin Kunde der ersten Stunde und komme mir derart verarscht vir dass ich einen kompletten Wechsel in erwägung ziehe!",
+    "AppVersion": "2.10.2"
+  },
+  {
     "AppName": "my yallo",
     "Provider": "yallo",
     "AppID": "1365009736",
@@ -39420,6 +39888,18 @@
     "AppVersion": "1.0"
   },
   {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "4134374067",
+    "UserName": "WasIschKaputt",
+    "Score": "3",
+    "Date": "2019-05-11T08:41:21-07:00",
+    "Title": "Könnte besser sein",
+    "Content": "App spinnt Aufnahmen können nicht mehr geladen werden \nSender können nach dem sortieren nicht mehr gespeichert werden \nSCHAAAAADE😕",
+    "AppVersion": "2.10.2"
+  },
+  {
     "AppName": "my yallo",
     "Provider": "yallo",
     "AppID": "1365009736",
@@ -39444,6 +39924,18 @@
     "AppVersion": "1.0"
   },
   {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "3994833716",
+    "UserName": "Distar at b",
+    "Score": "1",
+    "Date": "2019-04-10T07:30:46-07:00",
+    "Title": "Schade",
+    "Content": "App ist sehr langsam. Habe extra ein schnelleres Internet-Abo bestellt. Hat nichts genützt. Navigieren ist unlogisch und unübersichtlich. Insgesamt eine wirklich sehr schlechte App. Schade.",
+    "AppVersion": "2.10.2"
+  },
+  {
     "AppName": "salt tv",
     "Provider": "salt",
     "AppID": "1258680285",
@@ -39454,6 +39946,18 @@
     "Title": "Noch immer keine Serienaufnahme, kein sourround",
     "Content": "Serienaufnahme und Sourroundsound wurden für Herbst letzen Jahres versprochen. Getan hat sich nichts.\n\nWeitere kritikpunkte:\n\n- schlechte Bildqualität (starke komprimierung)\n- Bedienungsschwächen (menu schliessen!)\n- suche nach einzelnen sendungen kann man vergessen, einzig der tv guide ist brauchbar",
     "AppVersion": "3.1836.1"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "3938568559",
+    "UserName": "cwasi",
+    "Score": "1",
+    "Date": "2019-03-28T14:54:22-07:00",
+    "Title": "Stürzt ständig ab",
+    "Content": "Sogar mit bester Internetverbindung stockt der Stream und die App stürzt ständig ab, auch auf dem iPad. Nicht brauchbar.",
+    "AppVersion": "2.10.2"
   },
   {
     "AppName": "salt tv",
@@ -39564,6 +40068,18 @@
     "AppVersion": "3.1836.1"
   },
   {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "3717623391",
+    "UserName": "Cool98987656",
+    "Score": "1",
+    "Date": "2019-01-31T11:53:47-07:00",
+    "Title": "Grottenschlecht",
+    "Content": "Als Entwickler oder Programmierer würde ich mich schämen einen solchen Schrott zu veröffentlichen!",
+    "AppVersion": "2.8.5"
+  },
+  {
     "AppName": "my yallo",
     "Provider": "yallo",
     "AppID": "1365009736",
@@ -39634,6 +40150,18 @@
     "Title": "Funktioniert nicht",
     "Content": "Kann mich mit korrekten login Daten nicht einloggen. Auf der Website funktionierts problemlos...",
     "AppVersion": "1.0"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "3560769177",
+    "UserName": "apfelbiss1",
+    "Score": "3",
+    "Date": "2018-12-22T12:52:58-07:00",
+    "Title": "Bitte für iPhone XS Max anpassen",
+    "Content": "Die App wurde noch nicht für die neuere Generation iPhones optimiert, bitte optimieren. Eine Apple TV App wäre noch wünschenswert dann wäre es nicht nötig das Bild via Airplay zu streamen.",
+    "AppVersion": "2.8.5"
   },
   {
     "AppName": "my yallo",
@@ -39720,6 +40248,18 @@
     "AppVersion": "1.0"
   },
   {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "3402148379",
+    "UserName": "Lummelenzitor",
+    "Score": "5",
+    "Date": "2018-11-10T06:00:47-07:00",
+    "Title": "Gute App",
+    "Content": "Quickline TV hat nun das gleiche Layout ob übers Internet oder beim Fernseher auf der Box. Persönliche Page.",
+    "AppVersion": "2.8.5"
+  },
+  {
     "AppName": "salt tv",
     "Provider": "salt",
     "AppID": "1258680285",
@@ -39768,6 +40308,18 @@
     "AppVersion": "3.1836.0"
   },
   {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "3312989004",
+    "UserName": "nkuhgt",
+    "Score": "1",
+    "Date": "2018-10-17T10:50:17-07:00",
+    "Title": "Sehr fehlerhaft",
+    "Content": "Aufnahmen können nicht gemacht werden, Speicher ist aber nicht voll...\nSchade, vorgängiges App war viel intuitiver.",
+    "AppVersion": "2.8.5"
+  },
+  {
     "AppName": "my yallo",
     "Provider": "yallo",
     "AppID": "1365009736",
@@ -39778,6 +40330,18 @@
     "Title": "Schrecklich.",
     "Content": "Der absolute Horror. \n•Saumässig langsam\n•sinnlos (genau gleiche Funktionen und Aufbau wie Website)",
     "AppVersion": "1.0"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "3258654008",
+    "UserName": "Courti13",
+    "Score": "2",
+    "Date": "2018-10-03T03:45:30-07:00",
+    "Title": "Sehr ausbaufähig",
+    "Content": "Aufnahmen können oft nicht abgespielt werden. Das Querformat im Vollbild ist gar kein Querformat des Handys (Mitteilungen rechts). Die Lupe im Menu kann nicht angetippt werden. Das Löschen einer einzelnen Aufnahme mühsamer als nötig. Alle diese Fehler unter anderen machen die App enttäuschend, zumal man für den Service bezahlt.",
+    "AppVersion": "2.8.5"
   },
   {
     "AppName": "salt tv",
@@ -39828,6 +40392,54 @@
     "AppVersion": "3.12.5"
   },
   {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "3055266253",
+    "UserName": "kollr",
+    "Score": "3",
+    "Date": "2018-08-12T11:32:26-07:00",
+    "Title": "Starten auf iPad",
+    "Content": "Leider kann die neue App nicht auf einem iPad mit iOS 9.3.5 gestartet werden. Bis anhin ging es bis auf die bekannten Probleme noch recht gut. Schade!",
+    "AppVersion": "2.8.4"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "3050264391",
+    "UserName": "flueckia",
+    "Score": "1",
+    "Date": "2018-08-11T08:17:19-07:00",
+    "Title": "Nicht brauchbar > stürzt immer ab....",
+    "Content": "Die neue App ist nicht auf allen iPad‘s funktionsfähig auch wenn diese ab iOS 9.0 oder neuer angegeben wird. Schade das solche Informationen bei keiner Produkte bzw. App Beschreibung darauf hingewiesen wird!",
+    "AppVersion": "2.8.4"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "3043314625",
+    "UserName": "Kevi 3",
+    "Score": "1",
+    "Date": "2018-08-09T23:06:17-07:00",
+    "Title": "iPad",
+    "Content": "Leider kann das neue App nicht auf dem iPad gestartet werden.",
+    "AppVersion": "2.8.4"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "3041567490",
+    "UserName": "klsllllsll",
+    "Score": "1",
+    "Date": "2018-08-09T12:12:37-07:00",
+    "Title": "Absolut unzuverlässig",
+    "Content": "Eine katastrophale App. Funktioniert nie zuverlässig, oft können Aufnahmen einfach nicht abgespielt werden, ständig Abstürze oder nicht funktionierendes scrollen/ spulen....",
+    "AppVersion": "2.8.4"
+  },
+  {
     "AppName": "salt tv",
     "Provider": "salt",
     "AppID": "1258680285",
@@ -39838,6 +40450,18 @@
     "Title": "MTV ROCKS",
     "Content": "Wo bleibt MTV Rocks? 😢 Bitte alle Sender auch in der App verfügbar schalten.",
     "AppVersion": "3.12.5"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "3021125928",
+    "UserName": "verbessern !",
+    "Score": "1",
+    "Date": "2018-08-05T06:45:20-07:00",
+    "Title": "Viele Fehlermeldungen und immer wieder Absturz",
+    "Content": "Braucht lange bis TV Sender aufgestartet ist ! Bricht plötzlich wieder ab während der Sendung. viele Fehlermeldungen . Muss dringend verbessert werden !",
+    "AppVersion": "2.6.12"
   },
   {
     "AppName": "salt tv",
@@ -39888,6 +40512,30 @@
     "AppVersion": "3.11.3"
   },
   {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "2586290107",
+    "UserName": "Chara-Chr",
+    "Score": "1",
+    "Date": "2018-05-23T10:39:27-07:00",
+    "Title": "Schrott",
+    "Content": "Summary:\nZUMUTUNG",
+    "AppVersion": "2.6.12"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "2564075678",
+    "UserName": "hera45",
+    "Score": "2",
+    "Date": "2018-05-18T07:46:20-07:00",
+    "Title": "Geschwindigkeit",
+    "Content": "Hat oft sehr lange, bis etwas geladen wird. \nEs treten oft unerwartete Fehler auf, danach geht es noch länger bis etwas kommt.\nDas App muss unbedingt verbessert werden, dsonst ist es einfach nur mühsam tv zu schauen.",
+    "AppVersion": "2.6.11"
+  },
+  {
     "AppName": "salt tv",
     "Provider": "salt",
     "AppID": "1258680285",
@@ -39898,6 +40546,18 @@
     "Title": "Funktioniert bestens",
     "Content": "Funktioniert ohne Probleme! Jetzt müsste nur noch der Kundensupport von Salt ebenso werden...",
     "AppVersion": "3.11.3"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "2543080553",
+    "UserName": "sk_root",
+    "Score": "1",
+    "Date": "2018-05-13T13:37:47-07:00",
+    "Title": "Viel Luft nach oben",
+    "Content": "Schwaches App, extrem viele Störungen und Abstürze. Enttäuschend, vor allem wenn man monatlich Geld für ein Abo zahlt.",
+    "AppVersion": "2.6.11"
   },
   {
     "AppName": "salt tv",
@@ -39912,6 +40572,42 @@
     "AppVersion": "3.11.3"
   },
   {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "2527176681",
+    "UserName": "Tom53468",
+    "Score": "2",
+    "Date": "2018-05-10T01:15:17-07:00",
+    "Title": "Keine Apple TV integration",
+    "Content": "Leider keine integrierte Apple TV integration, daher beim streamen bei mir schlechte Qualität",
+    "AppVersion": "2.6.11"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "2508520668",
+    "UserName": "245368834885432",
+    "Score": "1",
+    "Date": "2018-05-05T09:18:10-07:00",
+    "Title": "War Gut",
+    "Content": "War gut bis ich mich abgemeldet habe und mich wieder anmelden wollte und mich nichtmehr anmelden konnte trotz korrekter Angaben",
+    "AppVersion": "2.6.11"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "2398129442",
+    "UserName": "pesche_69",
+    "Score": "1",
+    "Date": "2018-04-08T05:38:36-07:00",
+    "Title": "Unbrauchbar!",
+    "Content": "Die App ist schlicht unbrauchbar - stürzt ständig ab!",
+    "AppVersion": "2.6.10"
+  },
+  {
     "AppName": "salt tv",
     "Provider": "salt",
     "AppID": "1258680285",
@@ -39922,5 +40618,557 @@
     "Title": "Version Alpha",
     "Content": "No time shift \nNo recurring schedules for TV shows \nRidiculous",
     "AppVersion": "3.11.3"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "2368723079",
+    "UserName": "Pricilla1985",
+    "Score": "2",
+    "Date": "2018-03-31T13:52:59-07:00",
+    "Title": "Sehr nervig",
+    "Content": "Stürzt dauernd ab",
+    "AppVersion": "2.6.10"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "2360715038",
+    "UserName": "Geartheweb",
+    "Score": "1",
+    "Date": "2018-03-29T13:12:21-07:00",
+    "Title": "Einfach nur schlecht",
+    "Content": "Ich verstehe das einfach nicht, wieso diese App nicht erneuert wird. Ein einziges riesiges Ärgernis. Total dämliche Navigation, instabil und dazu noch langsam. Einfach nur grottenschlecht die App",
+    "AppVersion": "2.6.10"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "2338504979",
+    "UserName": "Andy.landtwing",
+    "Score": "1",
+    "Date": "2018-03-23T13:03:59-07:00",
+    "Title": "Stürzt immer wieder ab....lausig",
+    "Content": "Kann ja nicht so schwer sein.",
+    "AppVersion": "2.6.10"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "2327595977",
+    "UserName": "Hüendli",
+    "Score": "3",
+    "Date": "2018-03-20T12:20:34-07:00",
+    "Title": "Fernbedienung?",
+    "Content": "Funktioniert grundsätzlich, auch wenn ich mich manchmal schon frage, welches Konzept der UI zugrunde liegt. Aber warum um Himmels Willen wurde die sehr sinnvolle Funktion, eine Sendung oder Aufnahme in der App vorzuwählen und dann an die Box zu schicken, anscheinend entfernt?! Bei Hunderten von Sendern und über 1000h Aufnahmekapazität ist die Navigation mit der Fernbedienung sehr mühsam, da käme die App wie gerufen. Und ja, nur weil Ihr x Millionen bezahlt habt, interessiert sich nicht plötzlich die ganze Schweiz für Eishockey...",
+    "AppVersion": "2.6.10"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "2317352700",
+    "UserName": "Svensssssssssssson",
+    "Score": "1",
+    "Date": "2018-03-17T15:34:34-07:00",
+    "Title": "Naja",
+    "Content": "Die App ist nicht gerade ideal für Iphone gemacht. Eine wichtige Funktion fehlt, das Streamen auf einen Fernsehen über Apple TV fehlt. Bei der anderen Quickline App funktionierte dies.",
+    "AppVersion": "2.6.10"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "2312432398",
+    "UserName": "damrge",
+    "Score": "1",
+    "Date": "2018-03-16T07:42:37-07:00",
+    "Title": "Schlechts Ui",
+    "Content": "Ui und Navigation in der App unterirdisch..",
+    "AppVersion": "2.6.10"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "2308928410",
+    "UserName": "Dude71",
+    "Score": "1",
+    "Date": "2018-03-15T08:27:15-07:00",
+    "Title": "Kann mich nicht Mal Anmelden ....",
+    "Content": ".... das ist nicht brauchbar Leute!",
+    "AppVersion": "2.6.10"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "2284839376",
+    "UserName": "bergtoeff",
+    "Score": "2",
+    "Date": "2018-03-08T10:27:20-07:00",
+    "Title": "Airplay nicht verfügbar",
+    "Content": "Leider wird das airplay-Symbol nicht angezeigt und somit kann nicht ans apple-TV gestreamt werden. Mittels Bildschirmsynchronisation wird Bild und Ton an apple-TV gestreamt, jedoch fix im Hochformat. Eine wichtige Funktion fehlt somit in dieser App.",
+    "AppVersion": "2.6.9"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "2240054475",
+    "UserName": "...?!...",
+    "Score": "1",
+    "Date": "2018-02-23T14:26:16-07:00",
+    "Title": "Schrott",
+    "Content": "Funktioniert nicht! ständig error beim versuch auf den tv guide zu kommen. tv schauen geht auch nicht, da sender automatisch umschalten.....\n\nkann unmöglich euer ernst sein, dass diese app so downloadbar ist!",
+    "AppVersion": "2.6.7"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "2229655421",
+    "UserName": "Kolonja",
+    "Score": "2",
+    "Date": "2018-02-20T12:39:19-07:00",
+    "Title": "Quickline",
+    "Content": "Quickline nie wieder ...Seit ich mit quickline umgestiegen bin habe ich nur Probleme. Empfehle es nicht weiter..",
+    "AppVersion": "2.6.7"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "2055220095",
+    "UserName": "rudip",
+    "Score": "3",
+    "Date": "2018-01-03T22:15:29-07:00",
+    "Title": "Läuft wieder",
+    "Content": "Die App läuft jetzt, ohne das der Bildschirmschoner aktiviert wird. Leider stürtzt die App zeitweise ab. Der Funktionsumfang gefällt mir sehr gut.  Diese App hat sich von der alpha zur beta Version gesteigert. Es wäre schön, wenn man direkt beim Starten der App zur Senderliste kommen würde.",
+    "AppVersion": "2.6.7"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "2051095561",
+    "UserName": "Jogim",
+    "Score": "1",
+    "Date": "2018-01-02T12:40:35-07:00",
+    "Title": "Sehr langsam",
+    "Content": "Die Bedienung ist sehr langsam. Zusätzlich sehr viele Fehlermeldungen bei der Nutzung des MySport Angebotes.",
+    "AppVersion": "2.6.7"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "2024414579",
+    "UserName": "Frederick1543",
+    "Score": "1",
+    "Date": "2017-12-24T14:14:04-07:00",
+    "Title": "Sehr schlecht",
+    "Content": "Habe mich nun 3 Monate mit Quickline Produkte rumgeschlagen. Nicht ein Tv-Abend ohne Fehlermeldung oder Unterbrüche. \nDas ein solches Produkt veröffentlicht wird finde ich bedenklich, nun ich habe den Anbieter gewechselt und kann nun das Tv schauen wieder geniessen. \nQuickline, nein danke!",
+    "AppVersion": "2.6.7"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "2012026622",
+    "UserName": "karlo55",
+    "Score": "1",
+    "Date": "2017-12-20T06:59:05-07:00",
+    "Title": "Navigation innerhalb der app schwer",
+    "Content": "Nach dem appstart lässt sich das Menü oben rechts noch öffnen, danach in den Untermenüs nicht mehr!! Menü nur nach Neustart wieder an wählbar. So ist die eigentlich gute app unbrauchbar!",
+    "AppVersion": "2.6.6"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "2009760998",
+    "UserName": "$$$$$$$$$$$$¥+*",
+    "Score": "1",
+    "Date": "2017-12-19T10:58:39-07:00",
+    "Title": "Bekommt ein Informatiklehrling im ersten Lehrjahr besser hin...",
+    "Content": "Schlechte App, schlechte Suche, schlechtes UI, Eishockey-Spiele muss man über den Browser mieten und wenn man diese dann auf den Smart-TV streamen will, bricht die Übertragung ab. App somit komplett nicht verwendbar, keine Ahnung was für eine Firma solch eine App rausbringt. Testing und Benuterfreundlichkeit sind hier wohl Fremdwörter.",
+    "AppVersion": "2.6.6"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "2004901568",
+    "UserName": "Fridaybest",
+    "Score": "2",
+    "Date": "2017-12-17T15:28:46-07:00",
+    "Title": "App funktioniert nicht mehr richtig - Menü kann nur auf MyPage aufgerufen werden",
+    "Content": "App ist nicht mehr richtig brauchbar! Nach App-Start (My Page) kann das Menü oben rechts noch angewählt werden, innerhalb der Untermenüs geht es nicht mehr. Dann hilft nur noch ein Neustart der App. Das darf nicht sein!\n\nAls Abonnent-Kunde erwarte ich eine funktionierende App, denn gemäss Angebot zahle ich auch dafür.",
+    "AppVersion": "2.6.6"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1997777866",
+    "UserName": "Mhandke",
+    "Score": "1",
+    "Date": "2017-12-15T00:22:03-07:00",
+    "Title": "Richtig schlecht",
+    "Content": "sehr unübersichtlich, Menü-Führung funktioniert meistens nicht (Sackgassen - App muss geschlossen werden), App sehr instabil, kein Chromecast und Airplay-Support, unbrauchbar! Geht doch mal bei Zattoo schauen, wie man sowas macht!!!",
+    "AppVersion": "2.6.6"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1986657488",
+    "UserName": "ScorpioCH",
+    "Score": "2",
+    "Date": "2017-12-10T15:34:28-07:00",
+    "Title": "iPad sperrt bei Videowiedegabe",
+    "Content": "Ernsthaft?? Ich teste Heute zum ersten Mal die App. Und wozu? Genau zum TV schauen. Und was passiert? Während der Videowiedergabe sperrt sich das iPad!!\nKann ja nicht euer ernst sein das ich den Bildschirm alle paar Minuten berühren muss!",
+    "AppVersion": "2.6.6"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1973369697",
+    "UserName": "CCS iSkipper",
+    "Score": "1",
+    "Date": "2017-12-05T14:26:31-07:00",
+    "Title": "Eine Zumutung!",
+    "Content": "Anmeldung zuerst umständlich und schliesslich gar nicht möglich. Auch nicht als Quickline-Abonnent. \nGibts denn sowas in der heutigen Zeit?!",
+    "AppVersion": "2.6.6"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1941184137",
+    "UserName": "App-CH",
+    "Score": "2",
+    "Date": "2017-11-22T15:01:17-07:00",
+    "Title": "Oh je",
+    "Content": "Da hab ich mir mehr erhofft. Da wünsch ich mir auch meine gute, alte Vertebox zurück. Leider ist das QLtvbox drei Schritte zurück. \nDass eine Tv app auf dem ipad nach 3min in den sleepmode geht? Unglaublich. Sehr praktisch zum fernsehen. Wie macht das denn die gute alte Wilmaaa?\n\nFinger raus, reparieren, verbessern, Kunden glücklich machen!",
+    "AppVersion": "2.6.5"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1940365322",
+    "UserName": "ANALOGMANNN",
+    "Score": "3",
+    "Date": "2017-11-22T07:43:41-07:00",
+    "Title": "updatet mal die quickline box",
+    "Content": "Die App läuft gut jedoch wäre es sinvoller eure quickline box mal zu revidieren. Ich krieg noch die kriese beim zappen und ständigem neu starten der Box.",
+    "AppVersion": "2.6.5"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1934379904",
+    "UserName": "eljavierCH",
+    "Score": "3",
+    "Date": "2017-11-20T00:24:26-07:00",
+    "Title": "Airplay Bug",
+    "Content": "Die App macht vieles richtig, moderne Optik, manchmal etwas umständlich in der Bedienung (5 „Touches“) bis das einfache Live-TV läuft.\nLeider gibt‘s auch ein dickes No-Go, beim Stream via Airplay oder besser gesagt mittels Bildschirmsynchronisation auf AppleTV, wird TV im Hochformat geschaut...!?\nBitte beheben, Danke.",
+    "AppVersion": "2.5.10"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1914102012",
+    "UserName": "Filmi6",
+    "Score": "5",
+    "Date": "2017-11-11T13:47:06-07:00",
+    "Title": "Apple TV",
+    "Content": "Wäre sehr toll wenn es auch für das Apple TV ,die Quickline App geben würde  dann kann man direkt mit Apple TV auf die App Zugreifen ,und Mann muss nicht immer ein iPhone oder iPad Barat haben für air Play um es zu verwenden , ansonsten top LG 😀",
+    "AppVersion": "2.5.10"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1888488914",
+    "UserName": "cubebit",
+    "Score": "1",
+    "Date": "2017-10-31T15:40:26-07:00",
+    "Title": "Anmeldung fehlgeschlagen",
+    "Content": "Mit der alten App funktioniert das Login. Mit dieser nicht. \n\"Sie sind nicht berechtigt für den Zugriff auf diese Applikation.\"\n\nWarum wird zu dieser App geraten? Werden die Rezensionen von den Entwickler gelesen?",
+    "AppVersion": "2.5.10"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1875757160",
+    "UserName": "Phileceed",
+    "Score": "1",
+    "Date": "2017-10-26T00:28:30-07:00",
+    "Title": "Ohne Verte kann das App nicht benutzt werden.",
+    "Content": "Total unnötige Kastration des Service.",
+    "AppVersion": "2.5.10"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1820117881",
+    "UserName": "mobileapplover",
+    "Score": "1",
+    "Date": "2017-09-30T22:51:50-07:00",
+    "Title": "Oh je",
+    "Content": "Warum braucht es eine Kreditkarte für TV Air FREE?...",
+    "AppVersion": "2.5.8"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1816447537",
+    "UserName": "Roger1111111",
+    "Score": "1",
+    "Date": "2017-09-29T01:53:40-07:00",
+    "Title": "dosn't work",
+    "Content": "login with correct quickline user and password dosn't work... unusable app",
+    "AppVersion": "2.5.8"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1805919593",
+    "UserName": "Euphorizius",
+    "Score": "1",
+    "Date": "2017-09-23T11:11:46-07:00",
+    "Title": "Schlimm",
+    "Content": "... wie die TV Box. Error, Error, unerwarteter Fehler 😡",
+    "AppVersion": "2.5.8"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1796879276",
+    "UserName": "CH_Marc",
+    "Score": "5",
+    "Date": "2017-09-18T12:24:02-07:00",
+    "Title": "Coole neue TV App",
+    "Content": "Super TV App mit vielen coolen neuen Features.",
+    "AppVersion": "2.5.7"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1791656480",
+    "UserName": "Kimetoni",
+    "Score": "2",
+    "Date": "2017-09-15T13:49:08-07:00",
+    "Title": "Auf TV Box wechseln",
+    "Content": "Kann nicht mehr das Programm auf dem iPad vorwählen und dann auf der Box ansehen. War eine nette Funktion.",
+    "AppVersion": "2.5.7"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1785372540",
+    "UserName": "Dosenravioli",
+    "Score": "1",
+    "Date": "2017-09-11T10:51:24-07:00",
+    "Title": "Unerwarteter Fehler",
+    "Content": "Diese ganze App ist ein einziger grosser unerwarteter Fehler! \nIch würde mich schämen eine solche App zu veröffentlichen! \nIhr macht euch nur unbeliebt und tretet inkompetent auf.\nBis jetzt habt ihr mir die Eishockey-Season gründlich ruiniert, für die Zukunft hoffe ich, dass diese App FEHLERFREI funktioniert.",
+    "AppVersion": "2.5.7"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1768224554",
+    "UserName": "Macuser-S",
+    "Score": "1",
+    "Date": "2017-09-02T04:13:11-07:00",
+    "Title": "Fehler TRX 400",
+    "Content": "Funktioniert nicht",
+    "AppVersion": "2.5.5"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1764328473",
+    "UserName": "SoIsEs123",
+    "Score": "1",
+    "Date": "2017-08-31T10:35:41-07:00",
+    "Title": "Katastrophen App",
+    "Content": "Absolut instabil, stürzt laufend ab und seit neuestem lassen sich Aufnahmen nicht mehr App gesteuert auf den Fernseher übertragen. Kümmert sich eigentlich niemand darum die Fehler zu beheben? Schlimmer ist bloss noch die Box von quickline.",
+    "AppVersion": "2.5.5"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1718431386",
+    "UserName": "divetheswan",
+    "Score": "5",
+    "Date": "2017-08-08T03:43:49-07:00",
+    "Title": "Hammer",
+    "Content": "Super App - sehr intuitiv",
+    "AppVersion": "2.5.5"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1710813887",
+    "UserName": "SwissMacPro",
+    "Score": "1",
+    "Date": "2017-08-03T01:41:32-07:00",
+    "Title": "Schrott",
+    "Content": "App stürzt ständig ab. Und wenn nicht, kommt eine Fehlermeldung, ich sei nicht berechtigt, obschon Quickline XL-Abo. Unterirdisch, sowas auf den Markt zu bringen.",
+    "AppVersion": "2.5.5"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1699534209",
+    "UserName": "Pikappa88",
+    "Score": "1",
+    "Date": "2017-07-26T14:27:14-07:00",
+    "Title": "Zuerst testen, dann veröffentlichen",
+    "Content": "Diese app sowie das Angebot ist nur beschränkt benutzbar und voller Fehler. Es ist eine Zumutung so etwas den Kunden zu verkaufen.",
+    "AppVersion": "2.5.3"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1656253585",
+    "UserName": "benjamin.jordi",
+    "Score": "2",
+    "Date": "2017-06-24T12:27:07-07:00",
+    "Title": "Schade, oft komisches Verhalten",
+    "Content": "Die App ist noch nicht wirklich toll:\n- andauernd unerwarteter Fehler\n- trotz top Internet, plötzlich low quality\n- Serienaufnahme funktioniert nicht wie erwartet (es nimmt einfach auf einem anderen sender auf)\n- replay: viele Fehlermeldungen....\n- kein Browsersupport für Mac/PC\n- TV-Guide: BITTE ein Classic view einführen wie bei Verte!!!\n\nAlles in allen...es funktioniert, ist aber klar noch nicht fertig entwickelt. Bei bedarf... ich helfe gerne!",
+    "AppVersion": "2.5.3"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1640967941",
+    "UserName": "Nervlich am Ende",
+    "Score": "1",
+    "Date": "2017-06-11T07:07:45-07:00",
+    "Title": "Nervt",
+    "Content": "App ist voller Fehler. Und stürzt ständig ab.\nMeistens wird auch nicht die Sendung angezeigt die ausgewählt wurde.\nBin sehr enttäuscht von QuickRing.\nAuch die Box strotzt nur so von Fehlern und bleibt dauernd hängen",
+    "AppVersion": "2.5.3"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1619888264",
+    "UserName": "cupra@343",
+    "Score": "2",
+    "Date": "2017-05-21T00:51:26-07:00",
+    "Title": "Stürtzt ab, Programmier-schwächen",
+    "Content": "Leider ist das App schwach programmiert, kann z.b das Auto-Standby nicht verhindern, bringt oft unverständliche Fehlermeldungen.\nIch bezweifle, dass einer der Programmierer das selber je benutzt hat.\nUnd das traurigste, die App ist noch gut im Vergleich zur TV Box... Schade.",
+    "AppVersion": "2.5.3"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1574878121",
+    "UserName": "globikopf",
+    "Score": "1",
+    "Date": "2017-03-28T12:28:37-07:00",
+    "Title": "Schade! QuicklineTV ist nix.",
+    "Content": "Gross angekündigt aber leider schwach entwickelt. Die Ideen sind gut aber die Lust aufs Fernsehen vergeht einem schnell. Wer will schon nach Sender oder nach Zeit sortiert suchen müssen? Mir ist egal wann und wo was gelaufen ist. Ich will eine anständige Übersicht aller Filme beispielsweise. Alles ist extrem schwerfällig und langsam... ich bezweifle, dass das richtig getestet wurde!",
+    "AppVersion": "2.4.2"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1565144022",
+    "UserName": "jadefux1",
+    "Score": "1",
+    "Date": "2017-03-15T13:55:10-07:00",
+    "Title": "Stürzt ständig ab",
+    "Content": "Sorry, so was dem Kunden zu zumuten ist eine Frechheit. Stürzt ständig ab bei Klick auf Sendung im TV Guide.\n\nAllgemein gesehen finde ich die UX & User Interface sehr verbesserungsbedürftig. Eine Timeline im TV Guide und nicht diese doofe Zeiteingabe.\n\nIch hoffe quickline kriegt das noch besser hin. Sonst steht einem Wechsel zur Konkurrenz nichts im Wege. ☹️",
+    "AppVersion": "2.4.2"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1562414399",
+    "UserName": "macprofile",
+    "Score": "1",
+    "Date": "2017-03-11T14:08:04-07:00",
+    "Title": "Ganz schwach!",
+    "Content": "Ich habe selten eine so schlechte Produkteinführung erlebt. Es gibt gute Ansätze wie bspw. persönliche Profile und dass man TV- Aufnahmen endlich auch auf den Mobilgeräten aufnehmen und anschauen kann (was schon endlos lange überfällig ist und von der Konkurrenz schon seit Ewigkeiten angeboten wird). Was nützt mir jedoch eine TV-App, mit der man nicht fensehen kann? Die meisten Sendungen müssen abgebrochen werden, weil sie mit einer Fehlermeldung garnicht erst starten. Eine übersichtliche Programmvorschau, wie in der Vorgängerversion fehlt gänzlich. Die Menuführung ist sehr gewöhnungsbedürftig und manchmal verwirrend.\nSchade, ich hatte mir von den neuen Funktionen sehr viel erhofft. Da ist noch viel, viel zu verbessern. Das kann unmöglich eine Vollversion sein. Es muss sich wohl um eine Betaverion im Anfangsstadium halndeln.",
+    "AppVersion": "2.4.2"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1562373401",
+    "UserName": "renavista",
+    "Score": "4",
+    "Date": "2017-03-11T11:47:50-07:00",
+    "Title": "Tolle neue TV App",
+    "Content": "unbedingt ausprobieren\nFehler und Abstürze müssen noch verschwinde ;)",
+    "AppVersion": "2.4.2"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1543887606",
+    "UserName": "bermudas71",
+    "Score": "1",
+    "Date": "2017-02-13T13:43:43-07:00",
+    "Title": "Kann mich nicht annelden",
+    "Content": "Komisch, es gibt 2 sehr ähnliche app für quickline mobil tv. Bei diesem kann ich mich trotz korrektem benutzernamen und passwort nicht einloggen ???  Habe kein verte abo. dies wäre ja hier zum einloggen ausgeschlossen. Verwirrend diese 2 apps. Wäre schön wenn auf der quickline homepage mal erklärt würde warum es 2 davon gibt ?",
+    "AppVersion": "2.4.1"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1525172561",
+    "UserName": "Meerdaniel",
+    "Score": "4",
+    "Date": "2017-01-18T12:10:51-07:00",
+    "Title": "Gut gemacht",
+    "Content": "Coole praktische TV App. Vor allem die Filter-und Aufnahmefunktion gefällt mir. Einfache Bedienung. Thumbs up!!",
+    "AppVersion": "2.4.1"
+  },
+  {
+    "AppName": "quickline tv",
+    "Provider": "quickline",
+    "AppID": "1157724348",
+    "ReviewID": "1517990114",
+    "UserName": "Chekai11",
+    "Score": "1",
+    "Date": "2017-01-08T08:46:07-07:00",
+    "Title": "Funktionsfehler",
+    "Content": "Kann mich bei dieser App nich anmelden trotz korrekten angeben! Gebe Meine Daten ein und werde wieder zurück zum Anmeldenildschirm versetzt ohne irgend eine Meldung! Schade",
+    "AppVersion": "2.4.1"
   }
 ]
