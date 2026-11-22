@@ -1,5 +1,29 @@
 [
   {
+    "AppName": "mywingo",
+    "Provider": "wingo",
+    "AppID": "1673683621",
+    "ReviewID": "14812772026",
+    "UserName": "Igp gohst",
+    "Score": "2",
+    "Date": "2026-11-20T06:41:43-07:00",
+    "Title": "Anmeldung",
+    "Content": "Ich muss mich immer wider neu anmelden das stresst",
+    "AppVersion": "12.0.0"
+  },
+  {
+    "AppName": "myswisscom",
+    "Provider": "swisscom",
+    "AppID": "444087594",
+    "ReviewID": "14811945936",
+    "UserName": "Off.meta",
+    "Score": "1",
+    "Date": "2026-11-20T02:13:10-07:00",
+    "Title": "iPhone Duo support",
+    "Content": "The app still lack any support for the duo",
+    "AppVersion": "11.35.2"
+  },
+  {
     "AppName": "wingo tv",
     "Provider": "wingo",
     "AppID": "6463395406",
@@ -38206,18 +38230,6 @@
     "Title": "Zu viele Bugs",
     "Content": "Salt müsste dringend mal über die Bücher mit der App. Sie bleibt zu oft hängen, der Guide reagiert nicht mehr, soe öffnet gar nicht richtig (bild bleibt grau) usw.\n\nDa Apple TV nur einen Ruhemodus aber kein reboot kennt, hilft nichts anderes als den Netzstecker zu ziehen.",
     "AppVersion": "3.2046.0"
-  },
-  {
-    "AppName": "myswisscom",
-    "Provider": "swisscom",
-    "AppID": "444087594",
-    "ReviewID": "6932030887",
-    "UserName": "mc2861",
-    "Score": "2",
-    "Date": "2021-01-30T04:16:18-07:00",
-    "Title": "Soucis de connexion avec le serveur Swisscom??",
-    "Content": "Jusqu’à présent l’appareil fonctionnait parfaitement jusqu’à la dernière update et puis plus rien : message connexion avec le serveur Swisscom impossible c’est dommage !!!",
-    "AppVersion": "10.1.6"
   },
   {
     "AppName": "my yallo",
