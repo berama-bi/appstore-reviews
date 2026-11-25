@@ -1,5 +1,41 @@
 [
   {
+    "AppName": "mysunrise",
+    "Provider": "sunrise",
+    "AppID": "466738063",
+    "ReviewID": "14825417979",
+    "UserName": "j.harvey",
+    "Score": "1",
+    "Date": "2026-11-23T09:51:10-07:00",
+    "Title": "Miesester Service ever!",
+    "Content": "Noch nie so einen miserablen Support erlebt. Inkompetenz und Kosten, mehr ist da nicht zu erwarten.",
+    "AppVersion": "7.6.63"
+  },
+  {
+    "AppName": "blue tv",
+    "Provider": "swisscom",
+    "AppID": "798597407",
+    "ReviewID": "14824984217",
+    "UserName": "Ttttrrrreee",
+    "Score": "1",
+    "Date": "2026-11-23T07:40:14-07:00",
+    "Title": "Enregistrement",
+    "Content": "Beaucoup de bug en replay on n’arrive plus à avancer…. Plus rien ne fonctionne sur l’écran ça reste figer…. Même après avoir supprimé l’application comme  conseillé dans votre réponse",
+    "AppVersion": "8.11.0"
+  },
+  {
+    "AppName": "mywingo",
+    "Provider": "wingo",
+    "AppID": "1673683621",
+    "ReviewID": "14824883554",
+    "UserName": "Stillste Nonne",
+    "Score": "5",
+    "Date": "2026-11-23T07:10:30-07:00",
+    "Title": "Hallo",
+    "Content": "Ich finde die App ist wirklich sehr gut",
+    "AppVersion": "12.0.0"
+  },
+  {
     "AppName": "mywingo",
     "Provider": "wingo",
     "AppID": "1673683621",
@@ -850,18 +886,6 @@
     "Title": "Schlechte Beratung",
     "Content": "Das Fachwissen des beratenden Personals  lässt viele Fragen offen. Mein Anliegen wurde nicht gelöst und dann wurde mir noch das Telefon abgehängt.",
     "AppVersion": "11.34.1"
-  },
-  {
-    "AppName": "mywingo",
-    "Provider": "wingo",
-    "AppID": "1673683621",
-    "ReviewID": "14677885271",
-    "UserName": "os1680",
-    "Score": "5",
-    "Date": "2026-10-17T08:11:35-07:00",
-    "Title": "Meilleur que Swisscom",
-    "Content": "Bon accueil tandis que Swisscom, Yallo et Salt sont des voleurs.",
-    "AppVersion": "11.0.2"
   },
   {
     "AppName": "my yallo",
@@ -26688,18 +26712,6 @@
     "AppVersion": "7.6.3"
   },
   {
-    "AppName": "mysunrise",
-    "Provider": "sunrise",
-    "AppID": "466738063",
-    "ReviewID": "10481072742",
-    "UserName": "Jasmin1995E",
-    "Score": "1",
-    "Date": "2023-10-16T05:17:02-07:00",
-    "Title": "Hat hänger",
-    "Content": "es nervt sich immer wieder anzumelden müssen. wann kommt ein update ?",
-    "AppVersion": "7.6.3"
-  },
-  {
     "AppName": "yallo tv",
     "Provider": "yallo",
     "AppID": "1569382476",
@@ -31762,18 +31774,6 @@
     "Title": "ich warte eine Woche bis ein Techniker forbei kommen sollte 😵‍💫",
     "Content": "Versuch",
     "AppVersion": "11.5.0"
-  },
-  {
-    "AppName": "blue tv",
-    "Provider": "swisscom",
-    "AppID": "798597407",
-    "ReviewID": "9634843604",
-    "UserName": "Rickenbacher Xaver",
-    "Score": "2",
-    "Date": "2023-02-19T12:10:58-07:00",
-    "Title": "Viel zu langsam",
-    "Content": "Leider viel zu langsam. Bis die Programmliste aufgebaut ist, kann es bis zu 1 Minute dauern.",
-    "AppVersion": "6.3.5"
   },
   {
     "AppName": "sunrise tv",
