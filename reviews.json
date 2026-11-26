@@ -1,5 +1,17 @@
 [
   {
+    "AppName": "mywingo",
+    "Provider": "wingo",
+    "AppID": "1673683621",
+    "ReviewID": "14827776731",
+    "UserName": "os1680",
+    "Score": "5",
+    "Date": "2026-11-24T00:43:10-07:00",
+    "Title": "L’alternative à Swisscom",
+    "Content": "Service client mieux que Swisscom",
+    "AppVersion": "12.0.0"
+  },
+  {
     "AppName": "mysunrise",
     "Provider": "sunrise",
     "AppID": "466738063",
@@ -4054,18 +4066,6 @@
     "Title": "Satisfaite",
     "Content": "Très bien",
     "AppVersion": "1.30.0"
-  },
-  {
-    "AppName": "blue tv",
-    "Provider": "swisscom",
-    "AppID": "798597407",
-    "ReviewID": "14076006902",
-    "UserName": "iocl",
-    "Score": "1",
-    "Date": "2026-05-17T12:57:16-07:00",
-    "Title": "Bildqualität schlecht und zunehmend Werbung",
-    "Content": "Die Bildqualität für Eishockey-Streams ist im WLAN schlecht, trotz genügend Bandbreite und korrekter Multicast-Einstellung. Die SRF-App ist hier wesentlich besser.\nZudem nervt immer mehr Werbung - obwohl ich für Blue TV bezahle. Sogar das Standbild wird neuerdings durch einen Werbe-Screen verdeckt.",
-    "AppVersion": "8.8.0"
   },
   {
     "AppName": "sunrise tv",
@@ -11782,18 +11782,6 @@
     "Title": "Please an Apple TV version",
     "Content": "App works great on iPad ad iPhone, but an Apple TV version would be great. Please!",
     "AppVersion": "2.2.0"
-  },
-  {
-    "AppName": "spusu",
-    "Provider": "spusu",
-    "AppID": "6473386899",
-    "ReviewID": "12603094329",
-    "UserName": "Saporo6",
-    "Score": "5",
-    "Date": "2025-04-30T07:16:18-07:00",
-    "Title": "App zweckmässig",
-    "Content": "Jedoch optional Potenzial für besseres Design und mehr Usability.\nDafür ist der Preis und der Kundendienst der beste den ich seit 32 Jahren Natel-Abo hatte! \nDanke und weiter so!",
-    "AppVersion": "1.01"
   },
   {
     "AppName": "mywingo",
@@ -26172,210 +26160,6 @@
     "AppVersion": "1.1.34"
   },
   {
-    "AppName": "mywingo",
-    "Provider": "wingo",
-    "AppID": "1673683621",
-    "ReviewID": "10513335878",
-    "UserName": "Tetovaboy",
-    "Score": "4",
-    "Date": "2023-10-25T03:28:00-07:00",
-    "Title": "Super App",
-    "Content": "Die App ist super praktisch",
-    "AppVersion": "1.1.34"
-  },
-  {
-    "AppName": "mywingo",
-    "Provider": "wingo",
-    "AppID": "1673683621",
-    "ReviewID": "10513330971",
-    "UserName": "ElRowdy8",
-    "Score": "5",
-    "Date": "2023-10-25T03:26:01-07:00",
-    "Title": "Extrem leicht!",
-    "Content": "Ich finde die app die beste und übersichtlichste APP von allen Anbietern. Wirklich TOP!",
-    "AppVersion": "1.1.34"
-  },
-  {
-    "AppName": "mywingo",
-    "Provider": "wingo",
-    "AppID": "1673683621",
-    "ReviewID": "10513328301",
-    "UserName": "Finland#8",
-    "Score": "5",
-    "Date": "2023-10-25T03:24:54-07:00",
-    "Title": "Simple et efficace!",
-    "Content": "Application simple d’utilisation, l’essentiel en bref!",
-    "AppVersion": "1.1.34"
-  },
-  {
-    "AppName": "mywingo",
-    "Provider": "wingo",
-    "AppID": "1673683621",
-    "ReviewID": "10513328194",
-    "UserName": "JowaniBanani",
-    "Score": "5",
-    "Date": "2023-10-25T03:24:51-07:00",
-    "Title": "Super einfache App",
-    "Content": "Die App ist ganz einfach und übersichtlich gestaltet.",
-    "AppVersion": "1.1.34"
-  },
-  {
-    "AppName": "mywingo",
-    "Provider": "wingo",
-    "AppID": "1673683621",
-    "ReviewID": "10513318053",
-    "UserName": "yannick_rafael",
-    "Score": "5",
-    "Date": "2023-10-25T03:20:40-07:00",
-    "Title": "Super",
-    "Content": "Echt super kann ich die Rechnung in der App bezahlen😍🥰",
-    "AppVersion": "1.1.34"
-  },
-  {
-    "AppName": "mywingo",
-    "Provider": "wingo",
-    "AppID": "1673683621",
-    "ReviewID": "10513314635",
-    "UserName": "Dax vi zh e",
-    "Score": "5",
-    "Date": "2023-10-25T03:19:13-07:00",
-    "Title": "Super und einfach",
-    "Content": "Die Wingo My App ist einfach zu bedienen und du hast alles was braucht's du drin!!!",
-    "AppVersion": "1.1.34"
-  },
-  {
-    "AppName": "mywingo",
-    "Provider": "wingo",
-    "AppID": "1673683621",
-    "ReviewID": "10513313358",
-    "UserName": "pioneer02",
-    "Score": "5",
-    "Date": "2023-10-25T03:18:41-07:00",
-    "Title": "Top App",
-    "Content": "Finde die App top. Alles ersichtlich in einer App.",
-    "AppVersion": "1.1.34"
-  },
-  {
-    "AppName": "mywingo",
-    "Provider": "wingo",
-    "AppID": "1673683621",
-    "ReviewID": "10513312012",
-    "UserName": "N.Bühhh",
-    "Score": "5",
-    "Date": "2023-10-25T03:18:08-07:00",
-    "Title": "Wingo App",
-    "Content": "Sehr sehr schlicht und praktisch minimalistisch übersichtlich. Love it !",
-    "AppVersion": "1.1.34"
-  },
-  {
-    "AppName": "mywingo",
-    "Provider": "wingo",
-    "AppID": "1673683621",
-    "ReviewID": "10513310054",
-    "UserName": "Ste97iiii",
-    "Score": "5",
-    "Date": "2023-10-25T03:17:19-07:00",
-    "Title": "Super",
-    "Content": "Bin sehr zufrieden.",
-    "AppVersion": "1.1.34"
-  },
-  {
-    "AppName": "mywingo",
-    "Provider": "wingo",
-    "AppID": "1673683621",
-    "ReviewID": "10513310027",
-    "UserName": "Kr33po",
-    "Score": "5",
-    "Date": "2023-10-25T03:17:18-07:00",
-    "Title": "Super zufrieden",
-    "Content": "Bin total zufrieden.",
-    "AppVersion": "1.1.34"
-  },
-  {
-    "AppName": "mywingo",
-    "Provider": "wingo",
-    "AppID": "1673683621",
-    "ReviewID": "10513309674",
-    "UserName": ".Juju.Julia",
-    "Score": "5",
-    "Date": "2023-10-25T03:17:09-07:00",
-    "Title": "Einfach & übersichtlich",
-    "Content": "Einfach & übersichtlich",
-    "AppVersion": "1.1.34"
-  },
-  {
-    "AppName": "mywingo",
-    "Provider": "wingo",
-    "AppID": "1673683621",
-    "ReviewID": "10513308578",
-    "UserName": "Waldergar",
-    "Score": "5",
-    "Date": "2023-10-25T03:16:41-07:00",
-    "Title": "Endlich",
-    "Content": "Endlich gibt's my Wingo auch als App. \nEinfach und übersichtlich!",
-    "AppVersion": "1.1.34"
-  },
-  {
-    "AppName": "mywingo",
-    "Provider": "wingo",
-    "AppID": "1673683621",
-    "ReviewID": "10513305833",
-    "UserName": "Resal1510",
-    "Score": "4",
-    "Date": "2023-10-25T03:15:32-07:00",
-    "Title": "Bonne appli",
-    "Content": "Franchement c’est joli, fonctionne bien, compatible avec Face ID, pas grand chose à redire\n\nLa seule chose serait de pouvoir aussi gérer l’abo internet en même temps que l’abo mobile, peu être dans différents onglets ou « modes »",
-    "AppVersion": "1.1.34"
-  },
-  {
-    "AppName": "mywingo",
-    "Provider": "wingo",
-    "AppID": "1673683621",
-    "ReviewID": "10513302708",
-    "UserName": "anonym5438",
-    "Score": "5",
-    "Date": "2023-10-25T03:14:13-07:00",
-    "Title": "Super App",
-    "Content": "Sehr gut!",
-    "AppVersion": "1.1.34"
-  },
-  {
-    "AppName": "mywingo",
-    "Provider": "wingo",
-    "AppID": "1673683621",
-    "ReviewID": "10513293862",
-    "UserName": "damsgi2323",
-    "Score": "4",
-    "Date": "2023-10-25T03:10:32-07:00",
-    "Title": "Super",
-    "Content": "Très bon app, pour gérer son profil",
-    "AppVersion": "1.1.34"
-  },
-  {
-    "AppName": "mywingo",
-    "Provider": "wingo",
-    "AppID": "1673683621",
-    "ReviewID": "10513293676",
-    "UserName": "JessiiH",
-    "Score": "5",
-    "Date": "2023-10-25T03:10:27-07:00",
-    "Title": "Endlich! Liebe die App!",
-    "Content": "Lang ersehnt und endlich da! Danke für die App!",
-    "AppVersion": "1.1.34"
-  },
-  {
-    "AppName": "mywingo",
-    "Provider": "wingo",
-    "AppID": "1673683621",
-    "ReviewID": "10513272242",
-    "UserName": "0806091219971996",
-    "Score": "5",
-    "Date": "2023-10-25T03:01:24-07:00",
-    "Title": "Wingo App",
-    "Content": "Top! :)",
-    "AppVersion": "1.1.34"
-  },
-  {
     "AppName": "mysunrise",
     "Provider": "sunrise",
     "AppID": "466738063",
@@ -26556,18 +26340,6 @@
     "AppVersion": "7.6.4"
   },
   {
-    "AppName": "mywingo",
-    "Provider": "wingo",
-    "AppID": "1673683621",
-    "ReviewID": "10495149261",
-    "UserName": "fisnik2209",
-    "Score": "5",
-    "Date": "2023-10-20T04:13:52-07:00",
-    "Title": "Intuitive et belle UI",
-    "Content": "Je suis très satisfait de l’application jusqu’à présent. Intuitive et design très sympa. Cela fonctionne pour un abonnement mobile, mais qu’en est-il d’un abonnement Internet / TV ?",
-    "AppVersion": "1.1.34"
-  },
-  {
     "AppName": "myswisscom",
     "Provider": "swisscom",
     "AppID": "444087594",
@@ -26602,18 +26374,6 @@
     "Title": "Was great but recently unstable",
     "Content": "Recent updates made the app unstable:\n- unavailable orders\n- impossible to login\nPlease review your release and testing process.",
     "AppVersion": "7.6.4"
-  },
-  {
-    "AppName": "mywingo",
-    "Provider": "wingo",
-    "AppID": "1673683621",
-    "ReviewID": "10488088213",
-    "UserName": "kcifkejemttsflhohiehe",
-    "Score": "2",
-    "Date": "2023-10-18T05:08:50-07:00",
-    "Title": "Sauber gestaltet aber…",
-    "Content": "MyWingo über den Browser hat mir schon gefallen. Das einzige, was mich störte, dass man nicht direkt mit TWINT die Rechnungen zahlen konnte. \nIn der App ist es noch immer nicht möglich. \n\nIn meinen Augen, gibt es keinen mehrwert… schade.",
-    "AppVersion": "1.1.34"
   },
   {
     "AppName": "mysunrise",
@@ -31776,6 +31536,18 @@
     "AppVersion": "11.5.0"
   },
   {
+    "AppName": "blue tv",
+    "Provider": "swisscom",
+    "AppID": "798597407",
+    "ReviewID": "9634843604",
+    "UserName": "Rickenbacher Xaver",
+    "Score": "2",
+    "Date": "2023-02-19T12:10:58-07:00",
+    "Title": "Viel zu langsam",
+    "Content": "Leider viel zu langsam. Bis die Programmliste aufgebaut ist, kann es bis zu 1 Minute dauern.",
+    "AppVersion": "6.3.5"
+  },
+  {
     "AppName": "sunrise tv",
     "Provider": "sunrise",
     "AppID": "1292688012",
@@ -32602,18 +32374,6 @@
     "Title": "Gut, aber",
     "Content": "Mir fehlt unter der Apple TV Box die Möglichkeit 30sek nach vorne und 10sek nach hinten springen zu können und beim apspielen mit 'Anschauen' läuft der Kanal nicht weiter sondern schlisst sich und man steht am Ort wo 'Anschauen' aufgerufen wurde. Beides war in der vorherigen NEO App vorhanden. Sonst alles ok und gut",
     "AppVersion": "4.44.5620"
-  },
-  {
-    "AppName": "my yallo",
-    "Provider": "yallo",
-    "AppID": "1365009736",
-    "ReviewID": "9488458677",
-    "UserName": "babaacaxxi",
-    "Score": "4",
-    "Date": "2023-01-09T04:40:40-07:00",
-    "Title": "Satisfait pour la qualité et le prix",
-    "Content": "Bonne couverture du réseau, pour le prix, par contre l’étoile en moins c’est pour le service après vente et en cas de question ou problème, il est compliqué de trouver quelqu’un de compétent et de disponible via le système de chat, ou les call center basés à l’étranger.",
-    "AppVersion": "3.1.7"
   },
   {
     "AppName": "my yallo",
