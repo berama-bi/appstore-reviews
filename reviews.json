@@ -1,5 +1,41 @@
 [
   {
+    "AppName": "mysunrise",
+    "Provider": "sunrise",
+    "AppID": "466738063",
+    "ReviewID": "14835868009",
+    "UserName": "Gane1974",
+    "Score": "5",
+    "Date": "2026-11-25T23:48:14-07:00",
+    "Title": "Zufrieden",
+    "Content": "Mit Produkt",
+    "AppVersion": "7.6.63"
+  },
+  {
+    "AppName": "mywingo",
+    "Provider": "wingo",
+    "AppID": "1673683621",
+    "ReviewID": "14835782212",
+    "UserName": "Lou_Montreux",
+    "Score": "1",
+    "Date": "2026-11-25T23:10:32-07:00",
+    "Title": "Zwei Kontonummern! Warum?",
+    "Content": "Bin dieses Jahr zu Wingo gewechselt. Dabei hat man mir zwei Kontonummern gegeben, ohne Grund und ohne zu melden! Habe gleich eBill eingeschaltet aber die Rechnungen des zweiten Kontos wurden nicht über eBill bezahlt und mein Internet wurde abgeschaltet.",
+    "AppVersion": "12.0.1"
+  },
+  {
+    "AppName": "my yallo",
+    "Provider": "yallo",
+    "AppID": "1365009736",
+    "ReviewID": "14835302455",
+    "UserName": "Nono139",
+    "Score": "1",
+    "Date": "2026-11-25T19:41:01-07:00",
+    "Title": "No bug report or technical support available, no feedback form",
+    "Content": "I found a new version of the mobile app terrible! The menu and main pages are full of trash ads, I cannot find my data usage and invoices in a few clicks!!! Do u really care about UX and UI? Find a better person to do the job!!! No entry to submit a feedback or report a bug, no way to get to the technical support. Then who are you building this app for? For your own product team so that they get paid for doing nothing???? Sooooo disappointed by this app….",
+    "AppVersion": "5.5.0"
+  },
+  {
     "AppName": "blue tv",
     "Provider": "swisscom",
     "AppID": "798597407",
@@ -16908,6 +16944,18 @@
     "AppVersion": "7.4.2"
   },
   {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11840664000",
+    "UserName": "giampired",
+    "Score": "5",
+    "Date": "2024-10-16T08:26:08-07:00",
+    "Title": "Finally",
+    "Content": "It took ages but at the end they made a very decent app. Thanks",
+    "AppVersion": "1.0.2"
+  },
+  {
     "AppName": "blue tv",
     "Provider": "swisscom",
     "AppID": "798597407",
@@ -17268,6 +17316,18 @@
     "AppVersion": "7.4.1"
   },
   {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11775153465",
+    "UserName": "Kedermann",
+    "Score": "4",
+    "Date": "2024-09-28T12:06:10-07:00",
+    "Title": "App",
+    "Content": "Sehr übersichtlich",
+    "AppVersion": "1.0.2"
+  },
+  {
     "AppName": "my yallo",
     "Provider": "yallo",
     "AppID": "1365009736",
@@ -17326,6 +17386,18 @@
     "Title": "Bildschirm Rotation",
     "Content": "Seit dem neuesten Update ist die App leider unbrauchbar geworden. Bei aufgenommenen oder vergangenen Sendungen kann man diese nicht mehr im Querformat anschauen. Das ist wirklich enttäuschend, da ich oft auf meinem iPhone schaue und das Querformat einfach notwendig ist. Ich hoffe, dass dieses Problem schnell behoben wird, da ich die App ansonsten gerne genutzt habe. Bis dahin kann ich sie leider nicht empfehlen.",
     "AppVersion": "3.2419.2"
+  },
+  {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11765887646",
+    "UserName": "roi fou",
+    "Score": "5",
+    "Date": "2024-09-26T01:57:46-07:00",
+    "Title": "Appli Salt",
+    "Content": "Très bon appli facile d’accès et toutes les questions sont vite répondus 😂",
+    "AppVersion": "1.0.2"
   },
   {
     "AppName": "blue tv",
@@ -17518,6 +17590,18 @@
     "Title": "bitte App-Icon anpassen",
     "Content": "Die App ist grundsätzlich gut aufgebaut und performant. Der TV-Guide ist logisch designed und lässt sich einfach bedienen.\n\nBitte aktualisiert das App- Icon mit einem flachen Design, das jetzige Icon ist nicht mehr zeitgemäss und sieht alt aus.",
     "AppVersion": "5.11.9507"
+  },
+  {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11734604902",
+    "UserName": "Fred5244",
+    "Score": "5",
+    "Date": "2024-09-17T09:58:35-07:00",
+    "Title": "App works better than the hotline…",
+    "Content": "When I opened my account with Salt, almost 1 year back, they attributed a temporary number which was NEVER used. Since then they keep sending me reminders for the open amount. I already was 3 times on the phone explaining that but obviously…\n\nJust wondering when it will stop 😆😂",
+    "AppVersion": "1.0.2"
   },
   {
     "AppName": "myswisscom",
@@ -17724,6 +17808,18 @@
     "AppVersion": "4.0.7"
   },
   {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11694083973",
+    "UserName": "JokR1470",
+    "Score": "1",
+    "Date": "2024-09-06T00:35:43-07:00",
+    "Title": "Bug",
+    "Content": "Bonjour, \nLors de l’ouverture de l’application, la page accueil ne fait que de charger et cela depuis plus de 24h. J’ai installé et désinstallé plusieurs fois mais la même chose ce produit… aucune information à l’horizon.",
+    "AppVersion": "1.0.2"
+  },
+  {
     "AppName": "salt tv",
     "Provider": "salt",
     "AppID": "1258680285",
@@ -17746,6 +17842,30 @@
     "Title": "NON FUNZIONA!",
     "Content": "Dopo aver sollecitato più e più volte il servizio clienti (molto gentili e professionali), non sono mai riuscite ad accedere al app. Né con e-mail, né con numero cliente, né con numero di telefono! Il codice per l’accesso non arriva, potrei attendere fino al 2050.. 🤨 oggi mi è arrivata la fattura (quella arriva puntuale) via e-mail ma non posso visualizzare cosa sto pagando perché non posso accedere al profilo su My Sunrise. Spero che le cose cambino altrimenti bye bye Sunrise.",
     "AppVersion": "7.6.16"
+  },
+  {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11687030823",
+    "UserName": "Kira und Rocky",
+    "Score": "1",
+    "Date": "2024-09-04T00:22:35-07:00",
+    "Title": "Betrug Werbung",
+    "Content": "Ich dachte es ist günstiger aber bin sehr enttäuscht, es kommen immer Höhe Rechnungen mit komischen betrug anrufen und ich bin verpflichtet zum bezahlen obwohl ich reklamiert habe .",
+    "AppVersion": "1.0.2"
+  },
+  {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11676609337",
+    "UserName": "user741239",
+    "Score": "3",
+    "Date": "2024-09-01T03:20:54-07:00",
+    "Title": "Nicht für iPhone 6!",
+    "Content": "Kann die App leider nicht auf meinem iPhone 6 (max. iOS 12.5) installieren. Bitte kompiliert die App dass sie auch auf einem iPhone 6 verwendet werden kann.",
+    "AppVersion": "1.0.2"
   },
   {
     "AppName": "blue tv",
@@ -17784,6 +17904,18 @@
     "AppVersion": "11.16.0"
   },
   {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11668181301",
+    "UserName": "Cognizanttiger",
+    "Score": "1",
+    "Date": "2024-08-29T20:16:05-07:00",
+    "Title": "Dreht sich nur im kreis",
+    "Content": "Die app startet und der grüne kreis dreht endlos. Sonst nichts. Die 4.7 bewertung kann ich mir nicht erklären.",
+    "AppVersion": "1.0.2"
+  },
+  {
     "AppName": "mysunrise",
     "Provider": "sunrise",
     "AppID": "466738063",
@@ -17820,6 +17952,30 @@
     "AppVersion": "1.72.0"
   },
   {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11663234467",
+    "UserName": "Alex 77771111",
+    "Score": "4",
+    "Date": "2024-08-28T11:25:15-07:00",
+    "Title": "App à moitié complète",
+    "Content": "Pas d'accès au compte mobile, uniquement internet",
+    "AppVersion": "1.0.2"
+  },
+  {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11661147607",
+    "UserName": "wantfreeupgrade",
+    "Score": "1",
+    "Date": "2024-08-27T22:49:20-07:00",
+    "Title": "Verlängerung Kreditkarte",
+    "Content": "Verlängerung abgelaufener Kreditkarte als Zahlungsmittel geht nicht. Problem besteht schon über einen Monat. Unzumutbar.",
+    "AppVersion": "1.0.2"
+  },
+  {
     "AppName": "sunrise tv",
     "Provider": "sunrise",
     "AppID": "1292688012",
@@ -17830,6 +17986,18 @@
     "Title": "Presque parfait",
     "Content": "Application rapide et globalement fiable, avec des fonctionnalités équivalentes aux concurrents. Changement de chaîne éclair et bonne qualité vidéo même en wifi. \n\nCependant une proposition d’amélioration: l’accès à la TV en direct est peu pratique: aller dans le guide TV et changer d’onglet pour arriver sur Live TV n’est vraiment pas pratique, et même très embêtant… pourquoi ne pas inclure un bouton Live TV sur l’écran d’accueil?",
     "AppVersion": "5.11.9507"
+  },
+  {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11657555190",
+    "UserName": "Reventura",
+    "Score": "5",
+    "Date": "2024-08-27T00:11:54-07:00",
+    "Title": "Bravo",
+    "Content": "Superbe application, simple et conviviale 🤞🤞",
+    "AppVersion": "1.0.2"
   },
   {
     "AppName": "mysunrise",
@@ -17844,6 +18012,18 @@
     "AppVersion": "7.6.14"
   },
   {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11642513888",
+    "UserName": "Jugoslawische Politiker",
+    "Score": "4",
+    "Date": "2024-08-22T23:58:52-07:00",
+    "Title": "Übersichtlich",
+    "Content": "Ist sehr übersichtlich.\nAdresse kann in der App nicht geändert werden da die einfriert…\nStand 23.8.24",
+    "AppVersion": "1.0.2"
+  },
+  {
     "AppName": "mysunrise",
     "Provider": "sunrise",
     "AppID": "466738063",
@@ -17856,6 +18036,18 @@
     "AppVersion": "7.6.12"
   },
   {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11639376391",
+    "UserName": "magicdavid70",
+    "Score": "5",
+    "Date": "2024-08-22T04:48:23-07:00",
+    "Title": "Salt",
+    "Content": "Bonne application qui nous aide à savoir le niveau de notre consommation",
+    "AppVersion": "1.0.2"
+  },
+  {
     "AppName": "blue tv",
     "Provider": "swisscom",
     "AppID": "798597407",
@@ -17866,6 +18058,18 @@
     "Title": "Pas terrible",
     "Content": "Trop de changement et pas forcément en mieux … plein de petits bugs désagréables 🙄",
     "AppVersion": "7.3.2"
+  },
+  {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11624989872",
+    "UserName": "Kaniware",
+    "Score": "5",
+    "Date": "2024-08-18T09:43:28-07:00",
+    "Title": "Salt",
+    "Content": "Vielen Dank",
+    "AppVersion": "1.0.2"
   },
   {
     "AppName": "blue tv",
@@ -17914,6 +18118,18 @@
     "Title": "Unbrauchbar",
     "Content": "Die App funktioniert nur als Online-Shop. \n\nEssenzielle Funktionen wie das Bezahlen von Rechnungen oder das Verwalten des Handy-Abos funktionieren nicht. Nach dem Laden der entsprechenden Seite wird nichts ausser ein weisser Bildschrim angezeigt.\n\nIch verwende ein iPhone 15 Pro mit iOS 17.5.1",
     "AppVersion": "7.6.12"
+  },
+  {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11600386339",
+    "UserName": "Terrghojccg",
+    "Score": "3",
+    "Date": "2024-08-12T01:20:04-07:00",
+    "Title": "Molto valida e utile",
+    "Content": "il consumo del data DayPass nell’appMysalt non è visibile, perché non rendere visibile pure lui?",
+    "AppVersion": "1.0.2"
   },
   {
     "AppName": "quickline tv",
@@ -18022,6 +18238,18 @@
     "Title": "Welcome back, welcome back, welcome back, ….",
     "Content": "You close one dialog box (welcome back we missed you) and it reappears, rendering the app unusable.",
     "AppVersion": "3.2413.0"
+  },
+  {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11581830721",
+    "UserName": "Roro600",
+    "Score": "5",
+    "Date": "2024-08-07T01:50:09-07:00",
+    "Title": "Roland",
+    "Content": "Personne très sympathique et compétente 👍👍",
+    "AppVersion": "1.0.2"
   },
   {
     "AppName": "salt tv",
@@ -18336,6 +18564,18 @@
     "AppVersion": "5.11.9507"
   },
   {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11520960124",
+    "UserName": "6Thömu8",
+    "Score": "2",
+    "Date": "2024-07-22T00:59:14-07:00",
+    "Title": "Internet Geschwindigkeit",
+    "Content": "Sie verkaufen einem Handy-Abos flat rate…\nund drosseln nach einer mir unbekannten Datenmenge die Geschwindigkeit !!!\nDas ist doch kein flate rate mehr…",
+    "AppVersion": "1.0.2"
+  },
+  {
     "AppName": "myswisscom",
     "Provider": "swisscom",
     "AppID": "444087594",
@@ -18382,6 +18622,18 @@
     "Title": "Ewiges Login nötig",
     "Content": "\"ClientVersion\": 7.3.2\nWenn man jeweils mal eingeloggt ist funktioniert es ja soweit aber eine App bei welcher ich mich bei jeder Benutzung (wohlverstanden auf demselben Gerät) zuerst jedesmal einloggen muss manuell trotz aktivem Schlüsselbund ist einfach inakzeptabel. App wurde bereits gelöscht und wieder installiert hat nix gebracht…",
     "AppVersion": "7.3.2"
+  },
+  {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11511214155",
+    "UserName": "enzo.s67",
+    "Score": "5",
+    "Date": "2024-07-19T08:23:27-07:00",
+    "Title": "App Salt",
+    "Content": "Molto Utile e Possibile per me controllare tutto quanto riguarda i miei conti mi piace 👍🏽 Grazie Salt…!!!👌🏿",
+    "AppVersion": "1.0.2"
   },
   {
     "AppName": "mysunrise",
@@ -18432,6 +18684,18 @@
     "AppVersion": "7.3.2"
   },
   {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11499220233",
+    "UserName": "Ranilife",
+    "Score": "5",
+    "Date": "2024-07-16T04:07:02-07:00",
+    "Title": "Bien",
+    "Content": "Bien mis à part que les paiements TPG par sms n’ont jamais pu être rétablis malgré mes appels avec le service client Salt",
+    "AppVersion": "1.0.2"
+  },
+  {
     "AppName": "sunrise tv",
     "Provider": "sunrise",
     "AppID": "1292688012",
@@ -18466,6 +18730,42 @@
     "Title": "Funktioniert nicht! Kann meine Rechnungen nicht einsehen",
     "Content": "Dieses App funktioniert nicht. Rechnung kann ich nicht einsehen. Nur das online shoppen geht",
     "AppVersion": "7.6.11"
+  },
+  {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11495628139",
+    "UserName": "Thierry VD90",
+    "Score": "5",
+    "Date": "2024-07-15T05:17:42-07:00",
+    "Title": "Great app!!",
+    "Content": "All needed functions in one place! A must have!",
+    "AppVersion": "1.0.2"
+  },
+  {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11495485430",
+    "UserName": "Mani40",
+    "Score": "5",
+    "Date": "2024-07-15T04:27:28-07:00",
+    "Title": "😃",
+    "Content": "Gute App",
+    "AppVersion": "1.0.2"
+  },
+  {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11495437961",
+    "UserName": "GilbertGva",
+    "Score": "5",
+    "Date": "2024-07-15T04:09:48-07:00",
+    "Title": "Remarque",
+    "Content": "Bonjour, j’aime beaucoup vos offres je suis abonné avec vous et mon ami aussi mais malheureusement depuis notre appartement la réception n’est pas vraiment bonne beaucoup d’amis se plaignent qu’il y a des coupures lors des conversations nous habitons aux 6, rue Joseph Berthet 1232 Confignon. je ne sais pas si pour vous il serait possible d’ajuster l’antenne la plus proche afin que nous ayons une meilleure réception. Merci et cordiales salutations",
+    "AppVersion": "1.0.2"
   },
   {
     "AppName": "mysunrise",
@@ -18634,6 +18934,18 @@
     "Title": "App in panne?",
     "Content": "Da parecchi giorni l’app non funziona !!!",
     "AppVersion": "4.0.7"
+  },
+  {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11454290318",
+    "UserName": "tobago99",
+    "Score": "1",
+    "Date": "2024-07-03T22:05:10-07:00",
+    "Title": "App zum Vergessen",
+    "Content": "Man wird via die App einfach an die Webseite von Salt weitergereicht",
+    "AppVersion": "1.0.1"
   },
   {
     "AppName": "my yallo",
@@ -18816,6 +19128,18 @@
     "AppVersion": "7.3.1"
   },
   {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11409256102",
+    "UserName": "Geo on CR-V",
+    "Score": "3",
+    "Date": "2024-06-21T23:45:54-07:00",
+    "Title": "Salt user",
+    "Content": "Strange app. Redirect to web page and you need to enter login and password. Don’t know if it should work like this",
+    "AppVersion": "1.0.1"
+  },
+  {
     "AppName": "mysunrise",
     "Provider": "sunrise",
     "AppID": "466738063",
@@ -18900,6 +19224,18 @@
     "AppVersion": "7.3.1"
   },
   {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11395797290",
+    "UserName": "Hansi_1520",
+    "Score": "5",
+    "Date": "2024-06-18T09:28:52-07:00",
+    "Title": "Kein Einloggen im Browser mehr nötig💯",
+    "Content": "Bin per Zufall auf diese App gestossen und muss sagen: Super übersichtliche App, top Zahlungsmethoden. Endlich ist der Login über Browser nicht mehr nötig! \nZwei Verbesserungsvorschläge:\nWieso wurde ich nicht auf diese App aufmerksam gemacht. Ihr müsst diese App unbedingt besser pushen mit Flyer per Post, SMS, TV/ Social Media Ads, usw. (Vielleicht habt ihr das aber bereits gemacht und ich habe es einfach übersehen)\nWieso wird mir der Tipp mit 10.- Rabatt angezeigt, obwohl ich Salt Home bereits habe? Ich würde solche Infos per Selektion anzeigen, damit nur relevante Infos angezeigt werden.",
+    "AppVersion": "1.0.1"
+  },
+  {
     "AppName": "mywingo",
     "Provider": "wingo",
     "AppID": "1673683621",
@@ -18910,6 +19246,18 @@
     "Title": "In allem top!",
     "Content": "Sowohl die Preis-Leistung, die Produkte wie auch der Support (speziell via Whatsapp) ist einfach nir top!!! Weiter so!",
     "AppVersion": "4.52.3"
+  },
+  {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11395499520",
+    "UserName": "Saigaetmoggy",
+    "Score": "1",
+    "Date": "2024-06-18T08:00:05-07:00",
+    "Title": "Impossible d’accéder",
+    "Content": "Hors ligne ???\nIl faut acheter un data pack !!!\n\nA mettre en ordre avant de proposer à vos clients",
+    "AppVersion": "1.0.1"
   },
   {
     "AppName": "sunrise tv",
@@ -18934,6 +19282,18 @@
     "Title": "Nicht brauchbar",
     "Content": "Im Jahre 2024 schafft es Yallo TV nicht stabil ein Fussball Spiel zu streamen.",
     "AppVersion": "1.70.12"
+  },
+  {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11385361327",
+    "UserName": "Nilssli123cool",
+    "Score": "5",
+    "Date": "2024-06-15T13:16:42-07:00",
+    "Title": "Mega!",
+    "Content": "Ich finde die App super!\n-Klarer Überblick von den Abos\n-Eifach die Rechnung zu begleichen\n-Überblick wieviel datenvolumen noch vorhanden ist\n-was alles inbegriffen ist (Datenvolumen Ausland)\n\nBin sehr zufrieden… keine Ahnung was die anderen meckern. Sorry aber es handelt sich hier nur um eine Mobile oder Internet Abo App. Reicht also völlig aus was hier geboten wird!",
+    "AppVersion": "1.0.1"
   },
   {
     "AppName": "mysunrise",
@@ -18970,6 +19330,18 @@
     "Title": "Satisfait",
     "Content": "Bon accueil. Patience\nExplication claire\nBien conseillé.",
     "AppVersion": "7.6.11"
+  },
+  {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11380545850",
+    "UserName": "one_day64",
+    "Score": "2",
+    "Date": "2024-06-14T07:45:08-07:00",
+    "Title": "Anmeldung mit Face und Nutzung im Detail",
+    "Content": "Die automatische Anmeldung mit Face funktioniert nicht. Und die detaillierte Nutzung des Europa Abos wird falsch angezeigt, es erscheint dort die Nutzung meines Travel Abos.",
+    "AppVersion": "1.0.1"
   },
   {
     "AppName": "mysunrise",
@@ -19126,6 +19498,18 @@
     "Title": "Immer PERFEKT",
     "Content": "Suuuuupär 👏🏼👏🏼👏🏼👏🏼👏🏼",
     "AppVersion": "7.2.0"
+  },
+  {
+    "AppName": "salt",
+    "Provider": "salt",
+    "AppID": "969561743",
+    "ReviewID": "11366490481",
+    "UserName": "Superlemon",
+    "Score": "5",
+    "Date": "2024-06-10T13:03:29-07:00",
+    "Title": "Great",
+    "Content": "Working great.\n\nI can pay my invoices, see my subscriptions and add or remove anything. \n\nSo far seems really a nice addition to the website on mobile that wasn’t that usable to be honest.",
+    "AppVersion": "1.0.1"
   },
   {
     "AppName": "blue tv",
@@ -26361,18 +26745,6 @@
     "Date": "2023-10-16T08:46:12-07:00",
     "Title": "Funktioniert nicht - wie alle Sunrise Apps",
     "Content": "App lädt nicht - da steht „Hello“, danach weisser Screen. Einfach schade wenn ich ins MWeb gehen muss um das Cockpit zu sehen.",
-    "AppVersion": "7.6.3"
-  },
-  {
-    "AppName": "mysunrise",
-    "Provider": "sunrise",
-    "AppID": "466738063",
-    "ReviewID": "10481317101",
-    "UserName": "tomtutom",
-    "Score": "1",
-    "Date": "2023-10-16T06:33:11-07:00",
-    "Title": "Login funktioniert nicht",
-    "Content": "Seit mehreren Wochen ist Login nicht mehr möglich. Sms Code wird nicht versendet und Mail- Code kann nicht eingegeben werden, da das Feld dafür nicht aktiviert ist. \nDachte mit dem Update wäre das gelöst. Pustekuchen",
     "AppVersion": "7.6.3"
   },
   {
